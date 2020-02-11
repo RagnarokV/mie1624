@@ -1,0 +1,6 @@
+# PDFs and slides
+lec*
+tut*
+
+# garbage files
+.DS*
