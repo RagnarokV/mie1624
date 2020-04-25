@@ -1,0 +1,376 @@
+,Description,Link,Rating,Class Name
+0,"Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.
+
+This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
+      
+
+
+            Read more",https://www.classcentral.com/course/machine-learning-835,4.8,Machine Learning
+1,"This is the sixth course in the IBM AI Enterprise Workflow Certification specialization.   You are STRONGLY encouraged to complete these courses in order as they are not individual independent courses, but part of a workflow where each course builds on the previous ones.    
+
+This course focuses on models in production at a hypothetical streaming media company.  There is an introduction to IBM Watson Machine Learning.  You will build your own API in a Docker container and learn how to manage containers with Kubernetes.  The course also introduces  several other tools in the IBM ecosystem designed to help deploy or maintain models in production.  The AI workflow is not a linear process so there is some time dedicated to the most important feedback loops in order to promote efficient iteration on the overall workflow.
+ 
+By the end of this course you will be able to:
+1.  Use Docker to deploy a flask application
+2.  Deploy a simple UI to integrate the ML model, Watson NLU, and Watson Visual Recognition
+3.  Discuss basic Kubernetes terminology
+4.  Deploy a scalable web application on Kubernetes 
+5.  Discuss the different feedback loops in AI workflow
+6.  Discuss the use of unit testing in the context of model production
+7.  Use IBM Watson OpenScale to assess bias and performance of production machine learning models.
+
+Who should take this course?
+This course targets existing data science practitioners that have expertise building machine learning models, who want to deepen their skills on building and deploying AI in large enterprises. If you are an aspiring Data Scientist, this course is NOT for you as you need real world expertise to benefit from the content of these courses.
+ 
+What skills should you have?
+It is assumed that you have completed Courses 1 through 5 of the IBM AI Enterprise Workflow specialization and you have a solid understanding of the following topics prior to starting this course: Fundamental understanding of Linear Algebra; Understand sampling, probability theory, and probability distributions; Knowledge of descriptive and inferential statistical concepts; General understanding of machine learning techniques and best practices; Practiced understanding of Python and the packages commonly used in data science: NumPy, Pandas, matplotlib, scikit-learn; Familiarity with IBM Watson Studio; Familiarity with the design thinking process.
+      
+
+
+            Read more",https://www.classcentral.com/course/ibm-ai-workflow-ai-production-17099,N/A,AI Workflow: AI in Production
+2,"The course aims at helping students to be able to solve practical ML-amenable problems that they may encounter in real life that include: (1) understanding where the problem one faces lands on a general landscape of available ML methods, (2) understanding which particular ML approach(es) would be most appropriate for resolving the problem, and (3) ability to successfully implement a solution, and assess its performance.  
+A learner with some or no previous knowledge of Machine Learning (ML)  will get to know main algorithms of Supervised and Unsupervised Learning, and Reinforcement Learning, and will be able to use ML open source Python packages to design, test, and implement ML algorithms in Finance.
+Fundamentals of Machine Learning in Finance will provide more at-depth view of supervised, unsupervised, and reinforcement learning, and end up in a project on using unsupervised learning for implementing a simple portfolio trading strategy.
+
+The course is designed for three categories of students:
+Practitioners working at financial institutions such as banks, asset management firms or hedge funds
+Individuals interested in applications of ML for personal day trading
+Current full-time students pursuing a degree in Finance, Statistics, Computer Science, Mathematics, Physics, Engineering or other related disciplines who want to learn about practical applications of ML in Finance  
+
+Experience with Python (including numpy, pandas, and IPython/Jupyter notebooks), linear algebra, basic probability theory and basic calculus is necessary to complete assignments in this course.
+      
+
+
+            Read more",https://www.classcentral.com/course/fundamentals-machine-learning-in-finance-11226,1.0,Fundamentals of Machine Learning in Finance
+3,"The goal of this course is to demystify AI
+The elements of AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required. By completing the course you can earn a LinkedIn certificate. People in Finland can also earn 2 ECTS credits through the Open University. The course is available from May 14, 2018.
+After taking the course, you will be able to:
+
+Understand some of the major implications of AI
+Think critically about AI news and claims 
+Define and discuss what AI is
+Explain the methods that make AI possible",https://www.classcentral.com/course/independent-elements-of-ai-12469,4.8,Elements of AI
+4,"Engage in this course pertaining to a highly impactful yet, too rarely discussed, AI-related topic. You will learn from international experts in the field, also speakers at IVADO’s International School on Bias and Discrimination in AI, which took place in Montreal, and explore the social and technical aspects of bias, discrimination and fairness in machine learning and algorithm design.
+The main focus of this course is: gender, race and socioeconomic-based bias as well as bias in data-driven predictive models leading to decisions. The course is primarily intended for professionals and academics with basic knowledge in mathematics and programming, but the rich content will be of great use to whomever uses, or is interested in, AI in any other way. These sociotechnical topics have proven to be great eye-openers for technical professionals!
+The total duration of the video content available in this course is 7:30 hours, cut into relevant segments that you may watch at your own pace. There are also comprehensive quizzes at the end of each segment to measure your understanding of the content.
+IVADO is a scientific and economic data science hub bridging industrial, academic and governmental partners with expertise in digital intelligence. One of its missions is to contribute to the advancement of digital knowledge and train new generations of bias-aware data scientists.
+Welcome to this enlightening journey in the world of ethical AI!",https://www.classcentral.com/course/edx-bias-and-discrimination-in-ai-18144,N/A,Bias and Discrimination in AI
+5,"In the last course of our specialization, Overview of Advanced Methods of Reinforcement Learning in Finance, we will take a deeper look into topics discussed in our third course, Reinforcement Learning in Finance.
+
+In particular, we will talk about links between Reinforcement Learning, option pricing and physics, implications of Inverse Reinforcement Learning for modeling market impact and price dynamics, and perception-action cycles in Reinforcement Learning. Finally, we will overview trending and potential applications of Reinforcement Learning for high-frequency trading, cryptocurrencies, peer-to-peer lending, and more.
+
+After taking this course, students will be able to 
+- explain fundamental concepts of finance such as market equilibrium, no arbitrage, predictability,
+- discuss market modeling,
+- Apply the methods of Reinforcement Learning to high-frequency trading, credit risk peer-to-peer lending, and cryptocurrencies trading.",https://www.classcentral.com/course/advanced-methods-reinforcement-learning--11240,1.0,Overview of Advanced Methods of Reinforcement Learning in Finance
+6,"Artificial intelligence is already all around you, from web search to video games. AI methods plan your driving directions, filter your spam, and focus your cameras on faces. AI lets you guide your phone with your voice and read foreign newspapers in English. Beyond today's applications, AI is at the core of many new technologies that will shape our future. From self-driving cars to household robots, advancements in AI help transform science fiction into real systems.
+
+The course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. CS188.1x focuses on Behavior from Computation and will cover the following areas:
+
+Statistical and decision–theoretic modeling paradigm. By the end of this course, you will have built autonomous agents that efficiently make decisions in stochastic and in adversarial settings.
+	Reasoning and Learning. With this additional machinery your agents will be able to draw inferences in uncertain environments and optimize actions for arbitrary reward structures. Your machine learning algorithms will classify handwritten digits and photographs.
+	Applications for a wide variety of artificial intelligence problems. The techniques you learn in CS188x will serve as the foundation for further study in any application area you choose to pursue.
+Join us today to learn more about how AI affects your life, and where it is headed in the future.",https://www.classcentral.com/course/edx-cs188-1x-artificial-intelligence-445,4.8,CS188.1x: Artificial Intelligence
+7,"Artificial Intelligence (AI) is a field that has a long history but is still constantly and actively growing and changing. In this course, you’ll learn the basics of modern AI as well as some of the representative applications of AI. Along the way, we also hope to excite you about the numerous applications and huge possibilities in the field of AI, which continues to expand human capability beyond our imagination. ***Note: Parts of this course are featured in the Machine Learning Engineer Nanodegree and the Data Analyst Nanodegree programs. If you are interested in AI, be sure to check out those programs as well!***Why Take This Course?Artificial Intelligence (AI) technology is increasingly prevalent in our everyday lives. It has uses in a variety of industries from gaming, journalism/media, to finance, as well as in the state-of-the-art research fields from robotics, medical diagnosis, and quantum science. In this course you’ll learn the basics and applications of AI, including: machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing.",https://www.classcentral.com/course/udacity-introduction-to-artificial-intelligence-301,4.1,Introduction to Artificial Intelligence
+8,"This course introduces an overview of financial analytics. You will learn why, when, and how to apply financial analytics in real-world situations. You will explore techniques to analyze time series data and how to evaluate the risk-reward trade off expounded in modern portfolio theory. While most of the focus will be on the prices, returns, and risk of corporate stocks, the analytical techniques can be leverages in other domains. Finally, a short introduction to algorithmic trading concludes the course.
+
+After completing this course, you should be able to understand time series data, create forecasts, and determine the efficacy of the estimates. Also, you will be able to create a portfolio of assets using actual stock price data while optimizing risk and reward. Understanding financial data is an important skill as an analyst, manager, or consultant.",https://www.classcentral.com/course/applying-data-analytics-business-in-fina-15161,N/A,Applying Data Analytics in Finance
+9,"This course aims at introducing the fundamental concepts of Reinforcement Learning (RL), and develop use cases for applications of RL for option valuation, trading, and asset management. 
+
+By the end of this course, students will be able to
+- Use reinforcement learning to solve classical problems of Finance such as portfolio optimization, optimal trading, and option pricing and risk management.
+- Practice on valuable examples such as famous Q-learning using financial problems.
+- Apply their knowledge acquired in the course to a simple model for market dynamics that is obtained using reinforcement learning as the course project.
+
+Prerequisites are the courses ""Guided Tour of Machine Learning in Finance"" and ""Fundamentals of Machine Learning in Finance"". Students are expected to know the lognormal process and how it can be simulated. Knowledge of option pricing is not assumed but desirable.",https://www.classcentral.com/course/reinforcement-learning-in-finance-11239,1.0,Reinforcement Learning in Finance
+10,"In this course you will simulate the time evolution of prices of financial assets, use the Black-Scholes model to price European or Asian options and compute the Value-at-Risk of a portfolio. The approach is hands-on with a strong emphasis on practical simulations that you will program, run and explore in your own computer.
+Certification
+You will receive a certificate of participation after having completed at least 75% of the course learning activities (videos, quizzes and homework).
+Learning objectives
+At the end of this course you will know how to answer the following questions:
+
+Why are random numbers needed in quantitative finance? And, if they are random, how can they be used to give precise, accurate answers to quantitative financial problems?
+What is the Black-Scholes model?
+What is geometric brownian motion and how can it be used to simulate the evolution of asset prices in financial markets?
+How are Monte Carlo methods used to determine the right price of a derivative product, such as a European call option?
+What is the theory of copulas and how can it be used to model general dependencies among financial assets?
+How is financial risk modeled, characterized and quantified?
+
+Workload
+You will need between 5 and 8 hours of work per week during a total of 12 weeks to complete all the learning activities, including the homework.
+Prior knowledge
+The course is geared to students not only in economics and finance, but also in mathematics, computer science, engineering, physics and the natural sciences.
+No knowledge of finance is required.
+Basic knowledge of Calculus (integration and differentiation, Taylor series), Linear Algebra (matrices, determinants, eigenvalues and eigenvectors) and Probability (random variables, probability density and cumulative distribution functions) at an introductory undergraduate level is strongly recommended.
+Programming knowledge is recommended. We will be designing simulations that can be executed in either GNU Octave or in Matlab. The programs will be short, intuitive, fully documented and easy to follow. Yet they will be powerful tools under your control, and will allow you to explore, experiment and learn at your own initiative.
+
+
+
+            Read more",https://www.classcentral.com/course/iversity-monte-carlo-methods-in-finance-982,4.0,Monte Carlo Methods in Finance
+11,"Landscape approaches call for innovative interventions that cut across sectors and scales. Public and private funders are ready to invest but there are gaps to bridge. Integrated landscape investments, which enable bankable projects to be realized, need to be built on shared understandings and motivations between landscape inhabitants and leaders and the world of finance.
+Are you from the finance world and want to think from a landscape perspective? Or, are you working in or for a landscape and want to mobilise resources? Join this course and bridge the gap between finance and landscapes. Gain critical insights and develop the skills to capitalize on investors motivation to invest and the need for innovative financing in landscapes
+Financial experts will share their experiences and get you ready to join the global momentum on financing landscape initiatives. You'll learn about multi-sector, multi-stakeholder investments that manage and affect multiple landscape functions.
+Join the course now and jump right into breaking down complex language and concepts in a light and highly interactive manner. Learn about plural values and how they can be achieved with the right investment. Learn too how to stimulate, secure and coordinate the execution of that investment. During this course, you'll also learn to develop integrated investment strategies to support landscape leaders and investors in their related efforts.
+Sustainable and Inclusive Landscapes
+This course is also part of the Sustainable and Inclusive Landscapes Professional Certificate Programme. Following the complete programme lets you harness the power of place and advance your career as a landscape leader. The programme consists of the following courses, which can be taken in any given order:
+
+Landscape Finance: Investing in Innovation for Sustainable Landscapes (this course)
+Landscape Leadership: Catalyse Sustainable Development in Landscapes
+Landscape Governance: Collaborating Across Sectors and Scales
+Climate Action in Biodiverse Landscapes
+
+
+
+
+            Read more",https://www.classcentral.com/course/edx-landscape-finance-investing-in-innovation-for-sustainable-landscapes-12196,N/A,Landscape Finance: Investing in Innovation for Sustainable Landscapes
+12,"If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new ""superpower"" that will let you build AI systems that just weren't possible a few years ago. 
+
+In this course, you will learn the foundations of deep learning. When you finish this class, you will:
+- Understand the major technology trends driving Deep Learning
+- Be able to build, train and apply fully connected deep neural networks 
+- Know how to implement efficient (vectorized) neural networks 
+- Understand the key parameters in a neural network's architecture 
+
+This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions. 
+
+This is the first course of the Deep Learning Specialization.",https://www.classcentral.com/course/neural-networks-deep-learning-9058,4.8,Neural Networks and Deep Learning
+13,"This course teaches computer programming to those with little to no previous experience. It uses the programming system and language called MATLAB to do so because it is easy to learn, versatile and very useful for engineers and other professionals. MATLAB is a special-purpose language that is an excellent choice for writing moderate-size programs that solve problems involving the manipulation of numbers. The design of the language makes it possible to write a powerful program in a few lines. The problems may be relatively complex, while the MATLAB programs that solve them are relatively simple: relative, that is, to the equivalent program written in a general-purpose language, such as C++ or Java. As a result, MATLAB is being used in a wide variety of domains from the natural sciences, through all disciplines of engineering, to finance, and beyond, and it is heavily used in industry. Hence, a solid background in MATLAB is an indispensable skill in today’s job market.
+
+Nevertheless, this course is not a MATLAB tutorial. It is an introductory programming course that uses MATLAB to illustrate general concepts in computer science and programming. Students who successfully complete this course will become familiar with general concepts in computer science, gain an understanding of the general concepts of programming, and obtain a solid foundation in the use of MATLAB.
+
+Students taking the course will get a MATLAB Online license free of charge for the duration of the course. The students are encouraged to consult the eBook that this course is based on. More information about these resources can be found on the Resources menu on the right.
+      
+
+
+            Read more",https://www.classcentral.com/course/matlab-3396,4.8,Introduction to Programming with MATLAB
+14,"Want to learn how to think clearly about important financial decisions and improve your financial literacy? Finance for Everyone will showcase the beauty and power of finance. This introductory finance course will be a gateway into the world of finance and will examine multiple applications to apply to your everyday life. Join us to better understand how to apply frameworks and tools to make smart financial choices.
+You will be able to value the impact of different choices available to you: from renting or buying, evaluating car, home and student loans, or deciding whether to go to college versus pursuing a new idea to simply understanding how the financial world works.
+Starting with time value of money, the course will help you develop a full appreciation for the many applications of finance. Using real world examples, the course will enable you to understand and analyze many personal and professional decisions we confront on a daily basis. You will understand stocks and bonds, learn to allocate scarce resources in a value-add way, and adopt smart tools for making every day decisions.
+Finance is simultaneously a way of thinking and a set of tools. Finance is everywhere. There are no prerequisites for this course except for a sense of curiosity and a positive attitude. However, a comfort level with algebra and numbers and an understanding of accounting (the language of business) will clearly help. We will, however, try to cover everything starting with fundamentals and highlight when there is a need to do some further work in specific subjects.
+
+
+
+            Read more",https://www.classcentral.com/course/edx-finance-for-everyone-smart-tools-for-decision-making-4808,4.8,Finance for Everyone: Smart Tools for Decision-Making
+15,"An overview of the ideas, methods, and institutions that permit human society to manage risks and foster enterprise.  Emphasis on financially-savvy leadership skills. Description of practices today and analysis of prospects for the future. Introduction to risk management and behavioral finance principles to understand the real-world functioning of securities, insurance, and banking industries.  The ultimate goal of this course is using such industries effectively and towards a better society.",https://www.classcentral.com/course/financialmarkets-912,4.3,Financial Markets
+16,"Our primary goal is to help you to understand FinTech and to become more confident and persuasive in your ability to analyze and make recommendations to executives within the finance industry regarding how to react to these changes.
+
+This FIRST MOOC ON FINTECH IN ASIA-PACIFIC offered by HKUST presents the insight of several professors from the top business school in Asia as well as perspectives from industry professionals.  HKUST has been ranked for many years as the No.1 EMBA program in the world, as the number one Finance program in Asia, and as the top MBA program in Asia by multiple independent rating and review journals and surveys.  
+
+This course ""FinTech Foundations and Overview"" offers the combined strengths of HKUST in Business, Finance, and Technology as one the world's leading academic institutions on an important area of technology and business innovations.  For learners from outside Asia, this also gives an insight into changes happening in the most advanced FinTech markets of the world, since Asia leads worldwide in FinTech adoption and creative innovations.",https://www.classcentral.com/course/fintech-11193,4.6,FinTech Foundations and Overview
+17,"AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take. 
+
+In this course, you will learn:
+
+- The meaning behind common AI terminology, including neural networks, machine learning, deep learning, and data science
+- What AI realistically can--and cannot--do
+- How to spot opportunities to apply AI to problems in your own organization
+- What it feels like to build machine learning and data science projects
+- How to work with an AI team and build an AI strategy in your company
+- How to navigate ethical and societal discussions surrounding AI
+
+Though this course is largely non-technical, engineers can also take this course to learn the business aspects of AI.",https://www.classcentral.com/course/ai-for-everyone-12502,4.3,AI For Everyone
+18,"This course aims at providing an introductory and broad overview of the field of ML with the focus on applications on Finance. Supervised Machine Learning methods are used in the capstone project to predict bank closures. Simultaneously, while this course can be taken as a separate course, it serves as a preview of topics that are covered in more details in subsequent modules of the specialization Machine Learning and Reinforcement Learning in Finance.
+The goal  of Guided Tour of Machine Learning in Finance is to get a sense of what Machine Learning is, what it is for and in how many different financial problems it can be applied to.
+
+The course is designed for three categories of students:
+Practitioners working at financial institutions such as banks, asset management firms or hedge funds
+Individuals interested in applications of ML for personal day trading
+Current full-time students pursuing a degree in Finance, Statistics, Computer Science, Mathematics, Physics, Engineering or other related disciplines who want to learn about practical applications of ML in Finance  
+
+Experience with Python (including numpy, pandas, and IPython/Jupyter notebooks), linear algebra, basic probability theory and basic calculus is necessary to complete assignments in this course.",https://www.classcentral.com/course/guided-tour-machine-learning-finance-11231,1.1,Guided Tour of Machine Learning in Finance
+19,"Corporate Finance Essentials will enable you to understand key financial issues related to companies, investors, and the interaction between them in the capital markets. By the end of this course you should be able to understand most of what you read in the financial press and use the essential financial vocabulary of companies and finance professionals.",https://www.classcentral.com/course/corpfinance-2286,4.4,Corporate Finance Essentials
+20,"This course provides a brief introduction to the fundamentals of finance, emphasizing their application to a wide variety of real-world situations spanning personal finance, corporate decision-making, and financial intermediation. Key concepts and applications include: time value of money, risk-return tradeoff, cost of capital, interest rates, retirement savings, mortgage financing, auto leasing, capital budgeting, asset valuation, discounted cash flow (DCF) analysis, net present value, internal rate of return, hurdle rate, payback period.",https://www.classcentral.com/course/whartonfinance-625,4.3,Introduction to Corporate Finance
+21,"Financial Planning for Young Adults (FPYA), developed in partnership with the CFP Board, is designed to provide an introduction to basic financial planning concepts for young adults. The FPYA course is organized across eight separate modules within a 4-week window. Topics covered include financial goal setting, saving and investing, budgeting, financial risk, borrowing and credit. Because financial planning is such a personal topic, you will be encouraged to define your own financial goals and objectives while we discuss concepts and provide tools which can be applied in helping you reach those goals.
+
+Within each module, you will view a combination of traditional lecture style videos along with video vignettes that introduce financial topics for discussion among participants. The video vignettes provide a unique and exciting component to this course. Each vignette introduces a real-world scenario where financial decisions must be made and financial planning concepts can be applied. You will be challenged to think critically about each scenario and decide how you might come to a resolution if ever faced with a similar situation.
+
+Finally, the course also includes material throughout which is focused on career opportunities in financial planning, including video interviews with actual CFP® professionals and other professionals working in this exciting and growing career area. The final module in the class is devoted to the topic of financial planning as a career.
+      
+
+
+            Read more",https://www.classcentral.com/course/personalfinance-3965,5.0,Financial Planning for Young Adults
+22,"This course gives you context and first-hand experience with the two major catalyzers of the computational science revolution: big data and artificial intelligence. With more than 99% of all mediated information in digital format and with 98% of the world population using digital technology, humanity produces an impressive digital footprint. In theory, this provides unprecedented opportunities to understand and shape society. In practice, the only way this information deluge can be processed is through using the same digital technologies that produced it. Data is the fuel, but machine learning it the motor to extract remarkable new knowledge from vasts amounts of data. Since an important part of this data is about ourselves, using algorithms in order to learn more about ourselves naturally leads to ethical questions. Therefore, we cannot finish this course without also talking about research ethics and about some of the old and new lines computational social scientists have to keep in mind. As hands-on labs, you will use IBM Watson’s artificial intelligence to extract the personality of people from their digital text traces, and you will experience the power and limitations of machine learning by teaching two teachable machines from Google yourself.",https://www.classcentral.com/course/big-data-ai-ethics-17300,5.0,"Big Data, Artificial Intelligence, and Ethics"
+23,"In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You will understand how Watson works, become familiar with its use cases and real life client examples, and be introduced to several of Watson AI services from IBM that enable anyone to easily apply AI and build smart apps. You will also work with several Watson services to demonstrate AI in action.
+
+This course does not require any programming or computer science expertise and is designed for anyone whether you have a technical background or not.",https://www.classcentral.com/course/ai-with-ibm-watson-13850,N/A,Getting Started with AI using IBM Watson
+24,"Finance for Everyone: Decisions will introduce you to the workings of the free markets and  the foundations of finance.  You will learn how free markets and their “creative destruction” provide the architecture for  the global economy and how those same markets move money in ways that create and destroy wealth. Your financial toolkit will include timeless concepts like compounding, discounting, annuities, effective interest rates, and more.  You will also learn how to simplify important financial calculations and apply that knowledge  to real-life decisions that can influence everything from how you pay for your car to where you live. Through peer review you will publish your view on an issue important to you. You will also discover how your applied decisions connect to bigger questions relating to changing market conditions as you prepare for the second course in F4E: Markets.",https://www.classcentral.com/course/finance-decisions-6183,2.5,Finance for Everyone: Decisions
+25,"This course is for aspiring or active entrepreneurs who wants to understand how to secure funding for their company. This course will demystify key financing concepts to give entrepreneurs and aspiring entrepreneurs a guide to secure funding. 
+
+Examine the many financing options available to get your new venture funded. Learn the basics of finance, valuations, dilution and non-dilutive funding sources. Understand capital structure for new ventures, term sheets and how to negotiate them, and the differences between early-stage versus later-stage financing. Develop an understanding of how to develop winning investor pitches, who and when to pitch, how to avoid common mistakes that limit the effectiveness of the pitch, and how to ‘get to the close’. Key questions answered within the course include:
+
+* When to raise outside capital?
+* What kind of investors invest by stage and where to find them?
+* What are your fundraising options?
+* What are the key components of the term sheet?
+* How to perform company valuations?
+* How to pitch to investors?
+* What techniques help the entrepreneur ‘get to the close’?
+
+With this course, students experience a sampling of the ideas and techniques explored in the University of Maryland's master's degree in technology entrepreneurship, an innovative 100% online program. Learn more at http://mte.umd.edu/landing.",https://www.classcentral.com/course/venturefinance-2709,4.5,New Venture Finance: Startup Funding for Entrepreneurs
+26,"This course “FinTech Risk Management” help you understand risk management and corporate governance in finance industry with the disruption by FinTech and RegTech. You will become more confident to analyse and make recommendations to develop business strategies balancing the risks in operation, reputation and the stability of finance firms.
+
+You will learn about new challenges of compliance with financial requirements and government regulations and how you can deal with these changes, strategies in analysing FinTech risk and how operation risks increase in finance industry in this changing environment. As tech firms are now becoming more like finance firms such as Alibaba, Apple, and Tencent etc., you will learn about the importance of IT compliance and assurance and practical skills in dealing with these changes.",https://www.classcentral.com/course/fintech-risk-management-12007,4.5,FinTech Risk Management
+27,"In this 2-hour long project-based course, you will learn how to deploy, and use a model on Google’s AI Platform. Normally, any model trained with the TensorFlow framework is quite easy to deploy, and you can simply upload a Saved Model on Google Storage, and create an AI Platform model with it. But, in practice, we may not always use TensorFlow. Fortunately, the AI Platform allows for custom prediction routines as well and that’s what we are going to focus on. Instead of converting a Keras model to a TensorFlow Saved Model, we will use the h5 ﬁle as is. Additionally, since we will be working with image data, we will use this opportunity to look at encoding and decoding of byte data into string for data transmission and then encoding of the received data in our custom prediction routine on the AI Platform before using it with our model.  
+
+This course runs on Coursera's hands-on project platform called Rhyme. On Rhyme, you do projects in a hands-on manner in your browser. You will get instant access to pre-configured cloud desktops containing all of the software and data you need for the project. Everything is already set up directly in your Internet browser so you can just focus on learning. For this project, you’ll get instant access to a cloud desktop with (e.g. Python, Jupyter, and Tensorflow) pre-installed.
+
+Prerequisites:
+In order to be successful in this project, you should be familiar with Python programming, Google Cloud Platform. 
+
+Notes:
+-  You will be able to access the cloud desktop 5 times. However, you will be able to access instructions videos as many times as you want.
+- This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.
+      
+
+
+            Read more",https://www.classcentral.com/course/custom-prediction-routine-google-ai-platform-19108,N/A,Project: Custom Prediction Routine on Google AI Platform
+28,"FinTech has started a global revolution in the financial services industry, and the transformation will only increase in coming years. There are many ways in which FinTech can improve the lives of people around the world; however, those same technologies can also be used to enslave, coerce, track, and control people. Accordingly, it is appropriate and necessary to consider the implications of the introduction of these technologies so that they are utilized properly, regulated sufficiently, and their adoption does not come at the expense of societal growth. 
+This 6-week online coursecovers 6 modules, representing the full spectrum of finance, technology, and the introduction of FinTech solutions globally. We will ask questions that are not often asked or addressed when new technologies are adopted. Why should we adopt FinTech solutions, and what are the best ways to introduce disruptive technologies? How does blockchain technology change the way we provide financial services, and how should blockchain technology be governed? Is FinTech creating risks in cybersecurity and how can technology help us prevent financial crimes? As Artificial Intelligence (AI) is developed and adopted, will human biases and prejudices be built into such mechanisms? And at a larger scope, should FinTech lead to a decentralized, democratized system of finance, or will existing institutions adopt FinTech strategies to cement their existing hold on the financial markets? 
+Through discussing and attempting to answer these questions, you will understand better how the introduction of these technologies can benefit or harm society. And through considering the proper application or introduction of such technologies, you will learn to make better decisions as an individual and organization when facing the question: is FinTech our savior or a villain?
+
+
+
+            Read more",https://www.classcentral.com/course/edx-fintech-ethics-and-risks-11392,5.0,FinTech Ethics and Risks
+29,"Durch den MOOC „Das liebe Geld - Finance im Alltag“ erlangen Sie ein Basiswissen für bewusste und korrekte finanzielle Entscheidungen im Alltag. Sie eignen sich konkrete Werkzeuge an, die Ihnen helfen können, bessere Alltagsentscheidungen zu treffen und bekommen einen Einblick in verschiedene neueste Forschungserkenntnisse der Finance.
+
+Wir begleiten Sie in sechs Wochenmodulen zu soliden finanziellen Alltagsentscheidungen. Nach einer Einführung erlernen Sie den Zeitwert des Geldes als zentrales Konzept zur Entscheidungsfindung. Überlegungen zur persönlichen Finanzplanung folgt das Basiswissen zur Geldanlage. Danach halten Sie inne und reflektieren die Frage der Werte anhand konkreter Beispiele, insbesondere in Bezug auf Finanzprodukte wie Derivate und Strukturierte Produkte. In einem Exkurs erhalten Sie auch Einblick in Bitcoin und Blockchain. Das Thema Geldanlage wird anschliessend vertieft: Sie begegnen dem grössten Feind des Anlegers und betrachten die Interaktion der Finanzmarktteilnehmenden in biologischen Analogien. Am Ende reflektieren Sie das Gehörte und Erlernte kritisch und nehmen hoffentlich viele konkrete Hilfsmittel in den Alltag mit.
+
+Die Inhalte der einzelnen Module können auch einzeln bearbeitet werden. Der Kurs eignet sich also auch für jene Interessierte, die nicht Zeit oder Interesse am Gesamtkurs haben.
+
+Der Kurs wird in deutscher Sprache gehalten.",https://www.classcentral.com/course/finanzen-7794,5.0,Das liebe Geld - Finance im Alltag
+30,"This is CS50x, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x, CS50, is Harvard's largest course.
+Students who earn a satisfactory score on 9 problem sets (i.e., programming assignments) and a final project are eligible for a certificate. This is a self-paced course–you may take CS50x on your own schedule.
+HarvardX requires individuals who enroll in its courses on edX to abide by the terms of the edX honor code. HarvardX will take appropriate corrective action in response to violations of the edX honor code, which may include dismissal from the HarvardX course; revocation of any certificates received for the HarvardX course; or other remedies as circumstances warrant. No refunds will be issued in the case of corrective action for such violations. Enrollees who are taking HarvardX courses as part of another program will also be governed by the academic policies of those programs.
+HarvardX pursues the science of learning. By registering as an online learner in an HX course, you will also participate in research about learning. Read our research statement to learn more.
+Harvard University and HarvardX are committed to maintaining a safe and healthy educational and work environment in which no member of the community is excluded from participation in, denied the benefits of, or subjected to discrimination or harassment in our program. All members of the HarvardX community are expected to abide by Harvard policies on nondiscrimination, including sexual harassment, and the edX Terms of Service. If you have any questions or concerns, please contact harvardx@harvard.edu and/or report your experience through the edX contact form.
+
+
+
+            Read more",https://www.classcentral.com/course/edx-cs50-s-introduction-to-computer-science-442,4.5,CS50's Introduction to Computer Science
+31,"Learn how debt and equity can be used to finance infrastructure investments and how investors approach infrastructure investments! 
+
+According to the OECD, the global infrastructure investment requirement by 2030 for transport, electricity generation, transmission & distribution, and water & telecommunications totals to 71 trillion dollars. This figure represents about 3.5% of the annual World GDP from 2007 to 2030.
+
+The European Commission estimated, that by 2020, Europe will need between 1.5 - 2 trillion Euros in infrastructure investments. Between 2011 and 2020, about 500 billion Euros will be required for the implementation of the Trans-European Transport Network (TEN-T) program, 400 billion Euros for Energy distribution networks and smart grids, 200 billion Euros on Energy transmission networks and storage, and 500 billion Euros for the upgrade and construction of new power plants. An additional 38 - 58 billion Euros and 181 - 268 billion Euros in capital investment will be needed to achieve the targets set by the European Commission for broadband diffusion.
+
+Traditionally investments in infrastructure were financed using public sources. However, severe budget constraints and inefficient management of infrastructure by public entities have led to an increased involvement of private investors in the business. 
+
+The course focuses on how private investors approach infrastructure projects from the standpoint of equity, debt, and hybrid instruments. 
+
+The course concentrates on the practical aspects of project finance: the most frequently used financial techniques for infrastructure investments. The repeated use of real life examples and case studies will allow students to link the theoretical background to actual business practices.
+
+In the end of the course, students will be capable of analyzing a complex transaction, identifying the key elements of a deal, and suggesting proper solutions for deal structuring from a financial advisor's perspective.
+
+Course Format
+The course will consist of lecture videos, readings, and talks given by guest speakers. Although we do hope you will attend the entire course, it is possible to just focus on single topics.
+
+Suggested Readings
+The course is designed to be self-contained, there are no obligatory readings that must be acquired outside of the course. 
+For students interested in additional study material, you may refer to:
+•	Gatti Stefano, ""Project Finance in theory and practice"", Academic Press, 2nd edition, 2012.
+      
+
+
+            Read more",https://www.classcentral.com/course/infrafinance-1380,4.0,Financing and Investing in Infrastructure
+32,"Understand how AI can be used in healthcare and the challenges it creates
+The use of artificial intelligence (AI) has been a major development in healthcare. With the availability of vast amounts of health data, and the increasing possibilities of data analytics, understanding AI, and the challenges and opportunities it creates has never been been more important.
+On this course you will consider why we might need AI in healthcare, exploring the possible applications and the issues they might cause such as whether AI is dehumanizing healthcare. You should leave the course more confident in your knowledge of AI and how it might improve today’s healthcare systems.
+This course is for anyone wants to understand artificial intelligence and its application in healthcare. It will be particularly relevevant for those with some existing knowledge healthcare, especially students, researchers and healthcare professionals.",https://www.classcentral.com/course/artificial-intelligence-for-healthcare-opportunit-13302,N/A,Artificial Intelligence for Healthcare: Opportunities and Challenges
+33,"This course ""FinTech Security and Regulation (RegTech)"" help you to understand RegTech and to become more confident and persuasive in your ability to analyze and make recommendations to executives within the finance industry regarding how to react to these changes, e.g. Regulations to cryptocurrencies like BitCoin & Initial Coin Offering (ICO). It presents the views of several professors from the top business school in Asia as well as perspectives from industry professionals.
+
+You will learn about how FinTech and RegTech disrupt and transform finance industry, such as challenges in protecting data and security with digital forensics, risk management and corporate governance in banking industry in terms of Know Your Customer (KYC) and Anti Money Laundering (AML), and how governments in different countries take initiatives in FinTech and RegTech.",https://www.classcentral.com/course/regtech-11726,4.7,FinTech Security and Regulation (RegTech)
+34,"Artificial Intelligence will define the next generation of software solutions. This computer science course provides an overview of AI, and explains how it can be used to build smart apps that help organizations be more efficient and enrich people's lives. It uses a mix of engaging lectures and hands-on activities to help you take your first steps in the exciting field of AI. 
+Discover how machine learning can be used to build predictive models for AI. Learn how software can be used to process, analyze, and extract meaning from natural language; and to process images and video to understand the world the way we do. Find out how to build intelligent bots that enable conversational communication between humans and AI systems. 
+_ Note: The practical elements of this course are based on Microsoft Azure, and require an Azure subscription. Instructions for signing up for a free trial subscription are provided with the course materials, or you can use an existing Azure subscription if you have one.
+_
+edX offers financial assistance for learners who want to earn Verified Certificates but who may not be able to pay the fee. To apply for financial assistance, enroll in the course, then follow this link to complete an application for assistance.",https://www.classcentral.com/course/edx-introduction-to-artificial-intelligence-ai-9164,N/A,Introduction to Artificial Intelligence (AI)
+35,"This business course helps you to read and understand financial statements to evaluate how business performance is affected by four fundamental drivers of profitability viz., asset management, cost management, leverage management and tax management. It will also help you to identify areas for improvement.
+The second part of this finance course deals with managing costs. You will learn how to prepare cost sheets, budget and make cost-based decisions.
+The third part of the course provides an overview of financial markets to raise capital of different types. You will develop the ability to prepare and evaluate finances for your business plan and manage working capital.
+The overall objective of the course is to build financial acumen to make you a successful entrepreneur or manager.",https://www.classcentral.com/course/edx-accounting-and-finance-7273,5.0,Accounting and Finance
+36,"Appreciative Inquiry is a collaborative and constructive inquiry process that searches for everything that gives life to organizations, communities, and larger human systems when they are most alive, effective, creative and healthy in their interconnected ecology of relationships. To appreciate, quite simply, means to value and to recognize that which has value—it is a way of knowing and valuing the best in life. In the language of Positive Organizational Scholarship it means a research focus—a positive bias—seeking fresh understanding of dynamics described by words like excellence, thriving, abundance, resilience, or exceptional and life-giving. 
+
+In this context the word appreciate means to value those things of value—it is a mode of knowing often connected to the idea of esthetic appreciation in the arts. To appreciate also means to be grateful or thankful for—it is a way of being and maintaining a positive stance along the path of life's journey. And not incidentally, to appreciate is to increase in value too. Combining the three—appreciation as a way of knowing, as a way of being and as an increase in value– suggests that Appreciative Inquiry is simultaneously a life-centric form of study and a constructive mode of practice.  As a form of study, Appreciative Inquiry focuses on searching systematically for those capacities and processes that give life and strength and possibility to a living system; and as a constructive mode of practice, it aims at designing and crafting human organizations through a process in which valuing and creating are viewed as one, and where inquiry and change are powerfully related and understood as a seamless and integral whole 
+
+Leading Positive Change through Appreciative Inquiry is a course dedicated to advancing our understanding and skill in leading strength-based change and on how to create, foster and manage organizations in which people thrive and perform at their best.
+      
+
+
+            Read more",https://www.classcentral.com/course/appreciative-inquiry-5847,N/A,Leading Positive Change through Appreciative Inquiry
+37,"What is machine learning, and what kinds of problems can it solve? Google thinks about machine learning slightly differently -- of being about logic, rather than just data. We talk about why such a framing is useful for data scientists when thinking about building a pipeline of machine learning models. 
+
+Then, we discuss the five phases of converting a candidate use case to be driven by machine learning, and consider why it is important the phases not be skipped. We end with a recognition of the biases that machine learning can amplify and how to recognize this.
+
+>>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service",https://www.classcentral.com/course/google-machine-learning-10446,5.0,How Google does Machine Learning
+38,"In this course, participants will learn about the key financial decisions modern corporations face, as well as the alternative methods that can be employed to optimize the value of the firm’s assets. This is part of a Specialization in corporate finance created in partnership between the University of Melbourne and Bank of New York Mellon (BNY Mellon).",https://www.classcentral.com/course/valuecreation-3329,4.3,Corporate Financial Decision-Making for Value Creation
+39,"Corporations, governments, and individuals have powerful tools in Analytics and AI to create real-world outcomes, for good or for ill. 
+Data professionals today need both the frameworks and the methods in their job to achieve optimal results while being good stewards of their critical role in society today. 
+In this course, you'll learn to apply ethical and legal frameworks to initiatives in the data profession. You'll explore practical approaches to data and analytics problems posed by work in Big Data, Data Science, and AI. You'll also investigate applied data methods for ethical and legal work in Analytics and AI. 
+edX offers financial assistance for learners who want to earn Verified Certificates but who may not be able to pay the fee. To apply for financial assistance, enroll in the course, then follow this link to complete an application for assistance.",https://www.classcentral.com/course/edx-ethics-and-law-in-data-and-analytics-9354,1.0,Ethics and Law in Data and Analytics
+40,"Impact your financial decisions and learn how to affect the performance of your unit's profitability and of your organization. In this course gain a basic understanding of finance and accounting concepts to drive your organization's growth. Upon completion of this course, you will have gained general financial knowledge and an in-depth understanding of the impact of your decisions outside your functional area. Content of the course includes selected aspects of finance from a non-financial specialist perspective. Specific topics include: financial analysis; planning, forecasting, and budgeting; cash flow, and strategic financing. This class will be interactive and will require the active involvement of the participants in finance related activities.
+
+Upon completing this course, you will be able to:
+1.       Explain the importance of finance and interpretation of financial information
+2.       Apply the concepts of accounting and finance to analyze financials
+3.       Learn about key accounting and finance terms
+4.       Examine financial statements by using key ratios
+5.       Explain the importance of budgeting process
+6.       Learn about key components needed to improve profitability",https://www.classcentral.com/course/financeforpeople-2726,4.0,Finance for Non-Financial Professionals
+41,"Learn the general concepts of financial markets and economy.  You will see the difference between primary and secondary markets and learn about markets for different products. You will also look at various economic Indicators and their influence on the markets. After completing this course, you will have a much stronger background of financial markets and ready to go to the next stage in the Specialization. This course is designed to help students with very little or no finance background to learn the basics of investments.",https://www.classcentral.com/course/financial-markets-intro-6178,5.0,Introduction to Financial Markets
+42,"This free video course covers some of the most complex but also important topics in economics. How are exchange rates determined? When if ever are ongoing trade deficits harmful? Are fixed or floating exchange rates better? What are the roots of the euro crisis and what resolution can we expect? Does China manipulate its exchange rate and if so how does that matter? We cover all of these topics and more, with an eye toward what a person really might want to know. There is no use of mathematics in this course beyond the very basic.
+The interesting thing about international finance is that even a lot of professional economists don’t understand it very well, unless they have specialized in the area. If you complete this course, you’ll probably know a lot which they don’t! We encourage you to dive in at your own pace and watch videos more than once if it's helpful.",https://www.classcentral.com/course/mruniversity-international-finance-4096,5.0,International Finance
+43,"What do self-driving cars, face recognition, web search, industrial robots, missile guidance, and tumor detection have in common?
+They are all complex real world problems being solved with applications of intelligence (AI).
+This course will provide a broad understanding of the basic techniques for building intelligent computer systems and an understanding of how AI is applied to problems.
+You will learn about the history of AI, intelligent agents, state-space problem representations, uninformed and heuristic search, game playing, logical agents, and constraint satisfaction problems.
+Hands on experience will be gained by building a basic search agent. Adversarial search will be explored through the creation of a game and an introduction to machine learning includes work on linear regression.",https://www.classcentral.com/course/edx-artificial-intelligence-ai-7230,4.0,Artificial Intelligence (AI)
+44,"Want to study for an MBA but are unsure of basic financial concepts? This business and management course prepares you for studying finance in an MBA program and in business generally.
+You will learn key financial topics such as present value, Internal Rate of Return (IRR), capital budgeting, equity, bonds, diversification, portfolio choice and the Capital Asset Pricing Model (CAPM), all of which are often discussed and explored in great detail in MBA programs across the globe as well as everyday business operations.
+A completely online course, you can work wherever and whenever you choose: at home, in the workplace, at a library, coffee shop or even while travelling (with the appropriate network access).
+This course employs a 'supported learning' model. To help you achieve the optimum learning outcomes from this module, Imperial College Business School provides access to an expert online tutor who will support you through the learning materials and associated activities.
+No previous financial knowledge is needed. Join us as you start your journey into the world of finance for management.",https://www.classcentral.com/course/edx-finance-essentials-6860,5.0,Finance Essentials
+45,"Explore the evolution of AI investing and online wealth management.
+
+Investing and managing your wealth online has never been easier, but how does AI investing work and what are the challenges?
+
+On this course, you’ll explore how technology has changed the way we invest money. You’ll consider the evolution of AI-driven online wealth management platforms, robo-advisors, and learn how they work and why they’re successful.
+
+Moving from human-based data-driven investing strategies to neural networks, you’ll assess the ability of artificial intelligence to make investment decisions and discover the role of AI and machine learning in making trading decisions.",https://www.classcentral.com/course/invest-tech-18186,N/A,Innovations in Investment Technology: Artificial Intelligence
+46,"Ensure your investments are effective and match your risk-return appetite
+Research shows that UK households are poor at investment management, with a limited understanding of choices, risks and returns. This could mean that many people cannot afford to retire in future.
+This online course will give you the tools to avoid this nightmare. You will study investment choices, and the risks and returns of each; investment strategies and your risk-return appetite; and behaviours that can impair effective investment decisions.
+The Open University’s Centre for the Public Understanding of Finance created this course, with the generous support of True Potential LLP.
+For further information about registration, the final assessment course, your eligibility and the BA in Business Management, visit the Open University website.
+Academic credit
+If you are aiming to use your study of courses in the Business and Finance Fundamentals program to obtain academic credit, please be aware that the final planned presentation of the Open University Assessment Course BXM191 Business and Finance Fundamentals in Practice starts October 2020. Please ensure that you allow yourself enough time to obtain all eight Certificates of Achievement from courses in the program before registering for the Assessment Course. The start dates of the relevant FutureLearn courses in 2019 and 2020 are available here.
+
+
+
+            Read more",https://www.classcentral.com/course/investment-theory-and-practice-6395,5.0,Finance Fundamentals: Investment Theory and Practice
+47,"The study of Corporate Finance seems to be a very generic part of business education. Still, it either falls in the trap of intimidating formulas or is superficially journalistic. Both extremes preclude the understanding of the core finance ideas, concepts, and models.
+This Course is an attempt to avoid the above extremes. We discuss the core basis and mechanisms of modern corporate finance in a learner-friendly way. We will analyze the market’s most fundamental problems, realize the intrinsic interests and preferences of investors, reveal the true meaning of specific financial terms, and uncover important issues that are so often ignored in choosing and valuing investment projects.
+The learners will gain insight into the essence of corporate finance. They will be able to use the obtained knowledge and skills to successfully advance in their career at a financial institution, as well as in the area of financial management at non-financial businesses.",https://www.classcentral.com/course/principles-of-corporate-finance-10783,N/A,Principles of Corporate Finance –  A Tale of Value
+48,"Financial Accounting is often called the language of business; it is the language that managers use to communicate the firm's financial and economic information to external parties such as shareholders and creditors. Nobody working in business can afford financial illiteracy. Whether you run your own business, work as a manager or are just starting your career, you want to understand financial information and be able to interact with accountants, controllers, and financial managers. You want to talk business! 
+
+This course will provide you with the accounting language's essentials. Upon completion, you should be able to read and interpret financial statements for business diagnosis and decision-making. More importantly, you will possess the conceptual base to keep learning more sophisticated accounting and finance on your own. Do not forget that, as with any other language, becoming proficient with accounting requires constant practice.",https://www.classcentral.com/course/financial-accounting-6726,5.0,Accounting: Principles of Financial Accounting
+49,"Case Study - Predicting Housing Prices
+
+In our first case study, predicting house prices, you will create models that predict a continuous value (price) from input features (square footage, number of bedrooms and bathrooms,...).  This is just one of the many places where regression can be applied.  Other applications range from predicting health outcomes in medicine, stock prices in finance, and power usage in high-performance computing, to analyzing which regulators are important for gene expression.
+
+In this course, you will explore regularized linear regression models for the task of prediction and feature selection.  You will be able to handle very large sets of features and select between models of various complexity.  You will also analyze the impact of aspects of your data -- such as outliers -- on your selected models and predictions.  To fit these models, you will implement optimization algorithms that scale to large datasets.
+
+Learning Outcomes:  By the end of this course, you will be able to:
+   -Describe the input and output of a regression model.
+   -Compare and contrast bias and variance when modeling data.
+   -Estimate model parameters using optimization algorithms.
+   -Tune parameters with cross validation.
+   -Analyze the performance of the model.
+   -Describe the notion of sparsity and how LASSO leads to sparse solutions.
+   -Deploy methods to select between models.
+   -Exploit the model to form predictions. 
+   -Build a regression model to predict prices using a housing dataset.
+   -Implement these techniques in Python.
+      
+
+
+            Read more",https://www.classcentral.com/course/ml-regression-4289,4.6,Machine Learning: Regression

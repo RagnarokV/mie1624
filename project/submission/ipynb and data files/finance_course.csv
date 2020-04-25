@@ -1,0 +1,1126 @@
+,Link,Description
+0,https://www.classcentral.com/course/matlab-3396,"This course teaches computer programming to those with little to no previous experience. It uses the programming system and language called MATLAB to do so because it is easy to learn, versatile and very useful for engineers and other professionals. MATLAB is a special-purpose language that is an excellent choice for writing moderate-size programs that solve problems involving the manipulation of numbers. The design of the language makes it possible to write a powerful program in a few lines. The problems may be relatively complex, while the MATLAB programs that solve them are relatively simple: relative, that is, to the equivalent program written in a general-purpose language, such as C++ or Java. As a result, MATLAB is being used in a wide variety of domains from the natural sciences, through all disciplines of engineering, to finance, and beyond, and it is heavily used in industry. Hence, a solid background in MATLAB is an indispensable skill in today’s job market.
+
+Nevertheless, this course is not a MATLAB tutorial. It is an introductory programming course that uses MATLAB to illustrate general concepts in computer science and programming. Students who successfully complete this course will become familiar with general concepts in computer science, gain an understanding of the general concepts of programming, and obtain a solid foundation in the use of MATLAB.
+
+Students taking the course will get a MATLAB Online license free of charge for the duration of the course. The students are encouraged to consult the eBook that this course is based on. More information about these resources can be found on the Resources menu on the right.
+      
+
+
+            Read more
+          
+
+
+
+          Course Pages
+
+The MATLAB Environment
+    -We will learn how to start MATLAB and will familiarize ourselves with its user interface. We will learn how to use MATLAB as a sophisticated calculator. We will learn about syntax and semantics. We will see ways in which MATLAB provides help. Finally, we will learn how to create plots in MATLAB.
+
+Matrices and Operators
+    -The basic unit with which we work in MATLAB is the matrix. We solve problems by manipulating matrices, and operators are the primary means by which we manipulate them. We will learn how to define matrices, extract parts of them and combine them to form new matrices. We will learn how to use operators to add, subtract, multiply, and divide matrices, and we will learn that there are several different types of multiplication and division. Finally, we will learn MATLAB’s rules for determining the order in which operators are carried out when more than one of them appear in the same expression.
+
+Functions
+    -Functions let us break up complex problems into smaller, more manageable parts. We will learn how functions let us create reusable software components that can be applied in many different programs. We will learn how the environment inside a function is separated from the outside via a well defined interface through which it communicates with that outside world. We will learn how to define a function to allow input to it when it initiates its execution and output from it when it is done.
+
+Programmer's Toolbox
+    -MATLAB has useful built-in functions and we will explore many of them in this section. We will learn about polymorphism and how MATLAB exploits it to change a function's behavior on the basis of the number and type of its inputs. Because random numbers play an important role in computer programming, we will learn how to use the MATLAB random number generator. We will learn how to get input from the keyboard, how to print to the Command Window, and how to plot graphs in a Figure window. Finally, we will learn how to find programming errors with the help of the debugger.
+
+Selection
+    -Selection is the means by which MATLAB makes decisions about the order in which it executes its statements. We will learn how to use the if-statement, which is the most important method of selection. We will learn how to use relational operators and logical operators. We will learn how to write polymorphic functions and how to make functions resistant to error.
+
+Loops
+    -Loops give computers their power. We will learn how to use both of MATLAB's loop constructs: the for-loop and the while-loop. We will learn how the break-statement works, and we will use nested loops. We will learn how to make loops more efficient. We will learn about logical indexing and will see how to use it to produce implicit loops that are efficient and easy for a user to understand.
+
+Data Types
+    -Computers operate on bits, but humans think in terms of numbers, words, and other types of data. Like any good language, MATLAB organizes bits into convenient data types. We will study those types in this section. We will learn that there are ten types of numbers and that there are conversion functions to change one type into another. We will learn much more about strings and how the characters in them are encoded as numbers. We will learn how to produce heterogeneous collections of data via structs and cells, and we will learn how to store points in time and time durations.
+
+File Input/Output
+    -Files are named areas in permanent memory for storing data that can be used as input or output to MATLAB and to other programs. We will be introduced to MATLAB’s most important methods for reading and writing files. We will learn how to create, read from, and write into MAT-files, Excel files, text files, and binary files. We will learn how to navigate among folders with MATLAB commands."
+1,https://www.classcentral.com/course/money-1051,"The last three or four decades have seen a remarkable evolution in the institutions that comprise the modern monetary system. The financial crisis of 2007-2009 is a wakeup call that we need a similar evolution in the analytical apparatus and theories that we use to understand that system. Produced and sponsored by the Institute for New Economic Thinking, this course is an attempt to begin the process of new economic thinking by reviving and updating some forgotten traditions in monetary thought that have become newly relevant.Three features of the new system are central.Most important, the intertwining of previously separate capital markets and money markets has produced a system with new dynamics as well as new vulnerabilities. The financial crisis revealed those vulnerabilities for all to see. The result was two years of desperate innovation by central banking authorities as they tried first this, and then that, in an effort to stem the collapse.  Second, the global character of the crisis has revealed the global character of the system, which is something new in postwar history but not at all new from a longer time perspective.  Central bank cooperation was key to stemming the collapse, and the details of that cooperation hint at the outlines of an emerging new international monetary order. Third, absolutely central to the crisis was the operation of key derivative contracts, most importantly credit default swaps and foreign exchange swaps. Modern money cannot be understood separately from modern finance, nor can modern monetary theory be constructed separately from modern financial theory. That's the reason this course places dealers, in both capital markets and money markets, at the very center of the picture, as profit-seeking suppliers of market liquidity to the new system of market-based credit.
+
+
+
+            Read more
+          
+
+
+
+Introduction  1:  The Four Prices of Money  2:  The Natural Hierarchy of Money  3:  Money and the State:  Domestic  4:  The Money View, Macro and MicroBanking as a Clearing System  5:  The Central Bank as a Clearinghouse  6:  Federal Funds, Final Settlement  7:  Repos, Postponing Settlement  8:  Eurodollars, Parallel SettlementBanking as Market Making  9:  The World that Bagehot Knew  10:  Dealers and Liquid Security Markets  11:  Banks and the Market for Liquidity  12:  Lender/Dealer of Last Resort"
+2,https://www.classcentral.com/course/swayam-mathematical-economics-14187,"Objectives of the Course:
+# Do you want to learn how to take quick and wise decisions?
+# Do you want to learn the art of scientific thinking, logical thinking and critical thinking so that you can use them in your daily economic activities?
+# Do you want to save your time, money and energy?
+ 
+If you want to find an answer to all the above questions and if you wish to make your life simple, easy and interesting to live, this course is just for you!
+ 
+Intended audience:
+Apart from Economics, this course will be beneficial to solve problems in Engineering, Architecture, Medicine, Finance, Management, Policy-making and Analytics.
+ 
+Outcomes of the Course:
+After completing this course, you will have learnt:
+# How to build models by expressing words in symbols, numbers and equations
+# New techniques to solve complex problems
+# To measure the effect of change and discover techniques to improve your decision-making process
+# Economic dynamics and solve problems through adjustments with time.
+# A new dimension of scientific, logical and critical thinking, that will assist your mind to solve personal, professional and social problems and guide you to take wise decisions.
+ 
+Pre-requisites:
+# Elementary knowledge of Economics and
+# Elementary knowledge of Mathematics
+
+      
+
+
+COURSE LAYOUT
+WEEK 1:
+
+Module 1: Number Systems and Set Theory Module 2: Functions Module 3: Problems and Solutions
+ 
+WEEK 2:
+Module 4: Model- An Introduction Module 5: Economic Models Module 6: Problems and Solutions
+ 
+WEEK 3:
+Module 7: Concept of Utility Module 8: Partial Equilibrium Market Model Module 9: Problems and Solutions
+ 
+WEEK 4:
+Module 10: Matrix- An Introduction Module 11: Matrix Algebra and Linear Models Module 12: Concepts in Matrix Algebra and Matrix Methods Module 13: Problems and Solutions
+ 
+WEEK 5:
+Module 14: Matrix and Market Model Module 15: Matrix and National Income Model Module 16: Problems and Solutions
+ 
+WEEK 6:
+Module 17: Input-Output Analysis-An Introduction Module 18: Open and Closed Input-Output Model Module 19: Problems and Solutions
+ 
+WEEK 7:
+Module 20: Differentiation-An Introduction Module 21: Optimization: Maxima and Minima Module 22: Problems and Solutions
+ 
+WEEK 8:
+Module 23: Linear Programming- An Introduction Module 24: Solution to LP-Graphical Method
+WEEK 9:
+Module 25: Dual and its interpretationModule 26: Problems and Solutions
+
+WEEK 10:
+Module 27: Integration- An Introduction
+
+
+Module 28: Applications to Economic Theory.
+WEEK 11:
+Module 29: Differential Equations-An Introduction
+Module 30: First Order Linear Differential Equations
+ 
+WEEK 12:Module 31: Exact Differential Equations and Second Order Differential Equations
+Module 32: Applications of Differential Equations in Economics Module 33: Problems and Solutions
+ 
+WEEK 13:
+Module 34: Difference Equations- An Introduction Module 35: First Order Difference Equations Module 36: Second Order Difference Equations
+ 
+WEEK 14:
+Module 37: Applications of Difference Equations in Economics Module 38: Problems and Solutions
+ 
+WEEK 15:
+Module 39: Computational Economics-An Introduction Module 40: Computational Solution Tools"
+3,https://www.classcentral.com/course/edx-fintech-ethics-and-risks-11392,"FinTech has started a global revolution in the financial services industry, and the transformation will only increase in coming years. There are many ways in which FinTech can improve the lives of people around the world; however, those same technologies can also be used to enslave, coerce, track, and control people. Accordingly, it is appropriate and necessary to consider the implications of the introduction of these technologies so that they are utilized properly, regulated sufficiently, and their adoption does not come at the expense of societal growth. 
+This 6-week online coursecovers 6 modules, representing the full spectrum of finance, technology, and the introduction of FinTech solutions globally. We will ask questions that are not often asked or addressed when new technologies are adopted. Why should we adopt FinTech solutions, and what are the best ways to introduce disruptive technologies? How does blockchain technology change the way we provide financial services, and how should blockchain technology be governed? Is FinTech creating risks in cybersecurity and how can technology help us prevent financial crimes? As Artificial Intelligence (AI) is developed and adopted, will human biases and prejudices be built into such mechanisms? And at a larger scope, should FinTech lead to a decentralized, democratized system of finance, or will existing institutions adopt FinTech strategies to cement their existing hold on the financial markets? 
+Through discussing and attempting to answer these questions, you will understand better how the introduction of these technologies can benefit or harm society. And through considering the proper application or introduction of such technologies, you will learn to make better decisions as an individual and organization when facing the question: is FinTech our savior or a villain?
+
+
+
+            Read more
+          
+
+
+
+Introduction: Ethics of Finance and Emerging Technologies 
+This module will provide a historical and broad perspective of ethical issues relating to finance and the introduction or adoption of emerging technologies. 
+Blockchain and its Governance
+This module will expand off the Introduction to FinTech course (https://www.edx.org/course/introduction-to-fintech), to consider the most relevant and ethical ways such technology should be implemented, in a number of different industries or product segmentation. In particular, data collection, customer privacy, and transactional issues will be covered in this module. 
+Cybersecurity & Crimes 
+FinTech can make it easier and cheaper for banks to monitor and control financial transactions, thus reducing fraud and reducing bank costs. But at the same time, these tools can be used to steal money and other corporate secrets, hide illegality (including purchases of weapons, drugs, etc.), and finance terrorists and other criminal organizations. Accordingly, this module will consider the implications of such important issues. 
+AI & FinTech 
+In this module we will consider the implications of building our own concepts of “human” morality into amoral machines, as well as a consideration of whether human biases and prejudices can or will be built into such mechanisms, whether purposefully or unintentionally. 
+Institutionalization vs. Decentralization 
+One of the key reasons people are calling for FinTech is for its decentralized nature, thus democratizing finance, and allowing regular people to participate more fully and affordably in financial transactions through technologies like cryptocurrencies, non-government issued IDs, and P2P lending. In this module we will address some large questions, considering whether FinTech should lead to a decentralized, democratized system of finance. Or whether existing institutions will adopt FinTech strategies to cement their existing hold on the financial markets. 
+Big Questions Relating to the Introduction of FinTech 
+In this final module, we will consider some of the many outstanding questions and purposes of introducing FinTech to the world, exploring the many ways that FinTech can both help and hurt society. We will discuss financial inclusion, sustainable development, and many other positive aspects of FinTech development. Conversely, we will also consider how these same technologies and solutions could potentially be used to inhibit access to financial markets, or worse."
+4,https://www.classcentral.com/course/edx-introduccion-a-la-inversion-bursatil-5316,"Este curso pretende dar una visión panorámica e introductoria de la inversión en bolsa. Se presentan los diferentes productos en los que podemos invertir o con los que podemos especular. También se introducen los diferentes tipos de gráficos, los indicadores más habituales entre los gestores profesionales, y algunas estrategias rentables tanto para el inversor a largo plazo como para el inversor intradía.
+Unidades
+
+Aspectos básicos de la inversión bursátil
+Las herramientas del inversor
+Estrategias de inversión
+Activos en los que invertir
+Examen Final"
+5,https://www.classcentral.com/course/money2-1196,"This is Part Two of a two-part course; you can find Part One here.  The description below pertains to the course as a whole, both parts.The last three or four decades have seen a remarkable evolution in the institutions that comprise the modern monetary system. The financial crisis of 2007-2009 is a wakeup call that we need a similar evolution in the analytical apparatus and theories that we use to understand that system. Produced and sponsored by the Institute for New Economic Thinking, this course is an attempt to begin the process of new economic thinking by reviving and updating some forgotten traditions in monetary thought that have become newly relevant.Three features of the new system are central.Most important, the intertwining of previously separate capital markets and money markets has produced a system with new dynamics as well as new vulnerabilities. The financial crisis revealed those vulnerabilities for all to see. The result was two years of desperate innovation by central banking authorities as they tried first this, and then that, in an effort to stem the collapse.  Second, the global character of the crisis has revealed the global character of the system, which is something new in postwar history but not at all new from a longer time perspective.  Central bank cooperation was key to stemming the collapse, and the details of that cooperation hint at the outlines of an emerging new international monetary order. Third, absolutely central to the crisis was the operation of key derivative contracts, most importantly credit default swaps and foreign exchange swaps. Modern money cannot be understood separately from modern finance, nor can modern monetary theory be constructed separately from modern financial theory. That's the reason this course places dealers, in both capital markets and money markets, at the very center of the picture, as profit-seeking suppliers of market liquidity to the new system of market-based credit.
+      
+
+
+            Read more
+          
+
+
+
+International Money and Banking  13:  Chartalism, Metallism and Key Currencies  14:  Money and the State:  International  15:  Banks and Global Liquidity  16:  Foreign ExchangeBanking as Advance Clearing  17:  Direct and Indirect Finance  18:  Forwards and Futures  19:  Interest Rate Swaps  20:  Credit DerivativesBanking and the Real World  21:  Shadow Banking, Central Banking, and Global Finance  22:  Touching the Elephant: Three Views"
+6,https://www.classcentral.com/course/fintech-11193,"Our primary goal is to help you to understand FinTech and to become more confident and persuasive in your ability to analyze and make recommendations to executives within the finance industry regarding how to react to these changes.
+
+This FIRST MOOC ON FINTECH IN ASIA-PACIFIC offered by HKUST presents the insight of several professors from the top business school in Asia as well as perspectives from industry professionals.  HKUST has been ranked for many years as the No.1 EMBA program in the world, as the number one Finance program in Asia, and as the top MBA program in Asia by multiple independent rating and review journals and surveys.  
+
+This course ""FinTech Foundations and Overview"" offers the combined strengths of HKUST in Business, Finance, and Technology as one the world's leading academic institutions on an important area of technology and business innovations.  For learners from outside Asia, this also gives an insight into changes happening in the most advanced FinTech markets of the world, since Asia leads worldwide in FinTech adoption and creative innovations.
+      
+
+
+          Introduction to FinTech
+    -In this module (week one), students will gain a multi-dimensional perspective on what FinTech means from the perspective of large firms (and older participants in the industry - e.g. dinosaurs), entrepreneurs, investors, and consumers.  Examining what FinTech is, or is not, provides a foundations upon which students can build for better understanding of opportunities and changes. 
+
+FinTech Business Applications
+    -The Business Applications of FinTech are essentially the Fin part of the FinTech world, and in this module, we will examine applications across six categories of FinTech, including lending and personal finance, crowd-finding and business financing, payments and retail transactions, equity, trading and investment applications, various types of cryptocurrencies, and banking infrastructure and tools.
+
+The Tech of FinTech
+    -The Technology enabling and supporting FinTech is important to understand, and this module provides a brief introduction to each of the areas of technology that enable FinTech business changes, including identity and privacy technologies, blockchain and encryption, big data analytics, AI and automation, and consumer tech innovations.  This introduction is designed to be at a level appropriate for business managers or students of business, and is not intended to excite or engage tech geeks.
+
+FinTech Implications for Established Business
+    -Building on our understanding of FinTech market applications and FinTech technologies, we move in this module to examine the implications of FinTech changes and challenges for existing financial services companies, and we look at current and future trends in FinTech world-wide.  This module concludes, after the final quiz, with a final course project in which students will present their recommendations for senior managers of a large, established Asia-Pacific bank to take advantage of and respond to FinTech challenges and opportunities."
+7,https://www.classcentral.com/course/edx-cs50-s-introduction-to-computer-science-442,"This is CS50x, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x, CS50, is Harvard's largest course.
+Students who earn a satisfactory score on 9 problem sets (i.e., programming assignments) and a final project are eligible for a certificate. This is a self-paced course–you may take CS50x on your own schedule.
+HarvardX requires individuals who enroll in its courses on edX to abide by the terms of the edX honor code. HarvardX will take appropriate corrective action in response to violations of the edX honor code, which may include dismissal from the HarvardX course; revocation of any certificates received for the HarvardX course; or other remedies as circumstances warrant. No refunds will be issued in the case of corrective action for such violations. Enrollees who are taking HarvardX courses as part of another program will also be governed by the academic policies of those programs.
+HarvardX pursues the science of learning. By registering as an online learner in an HX course, you will also participate in research about learning. Read our research statement to learn more.
+Harvard University and HarvardX are committed to maintaining a safe and healthy educational and work environment in which no member of the community is excluded from participation in, denied the benefits of, or subjected to discrimination or harassment in our program. All members of the HarvardX community are expected to abide by Harvard policies on nondiscrimination, including sexual harassment, and the edX Terms of Service. If you have any questions or concerns, please contact harvardx@harvard.edu and/or report your experience through the edX contact form.
+
+
+
+            Read more"
+8,https://www.classcentral.com/course/regtech-11726,"This course ""FinTech Security and Regulation (RegTech)"" help you to understand RegTech and to become more confident and persuasive in your ability to analyze and make recommendations to executives within the finance industry regarding how to react to these changes, e.g. Regulations to cryptocurrencies like BitCoin & Initial Coin Offering (ICO). It presents the views of several professors from the top business school in Asia as well as perspectives from industry professionals.
+
+You will learn about how FinTech and RegTech disrupt and transform finance industry, such as challenges in protecting data and security with digital forensics, risk management and corporate governance in banking industry in terms of Know Your Customer (KYC) and Anti Money Laundering (AML), and how governments in different countries take initiatives in FinTech and RegTech.
+      
+
+
+          Introduction to FinTech Security & Regulation
+    -In this module, learners will examine the relationship between security and regulation as twin methodologies for managing and reducing risk in financial services. Issues explored will include  ""What is RegTech?"", ""What is InsurTech?"", and how can we determine when regulation and security are enough or too much to achieve important social & business objectives.
+
+Risk Management & Government Control
+    -In this module, we explore some of the tools government use to regulate financial markets and discuss  potential challenges for FinTech innovators in complying with these regulations. Some basic terms commonly used in finance such as AML & KYC are defined and described. We examine the role of different  government agencies as well as alternative social objectives that influence the development of regulations over time.
+
+Fraud,  Crimes, & Security 
+    -In this module, we discuss the issues and challenges of preventing and detecting fraud and crime in financial markets. Topic discuss will include data theft and related security technologies, human challenges in implementing effective security, and electronic evidence & digital forensics issues. Recommendations for FinTech firms are provided to reduce risk of fraud and crime.  
+
+Global Trends and  Government Initiatives in RegTech
+    -In this module, learners will explore a variety of government initiatives related to FinTech & RegTech. Topics included open banking APIs in Europe, crypto-currency & ICO regulations, evolution of FinTech regulations in US & Europe, China regulations on FinTech, and regulatory issues in HK, Singapore & other jurisdictions. 
+
+Peer-graded Final Project
+    -In this module, learners will complete a final project for the course involving research on regulatory decisions in multiple countries regarding a specific area of FinTech. Building on what they have discovered, learners will prepare  a short video/written pitch recommending FinTech policies to a regulator in a smaller jurisdiction dealing with FinTech challenges and opportunities."
+9,https://www.classcentral.com/course/independent-how-to-start-a-startup-2572,"CS183B is a class we’re teaching at Stanford. It’s designed to be a sort of one-class business course for people who want to start startups.
+Videos of the lectures, associated reading materials, and assignments will all be available here. There will be 20 videos, some with a speaker or two and some with a small panel. It’ll be 1,000 minutes of content if you watch it all.
+We’ll cover how to come up with ideas and evaluate them, how to get users and grow, how to do sales and marketing, how to hire, how to raise money, company culture, operations and management, business strategy, and more.
+You can’t teach everything necessary to succeed in starting a company, but I suspect we can teach a surprising amount. We’ve tried to take some of the best speakers from the past 9 years of Y Combinator dinners and arrange them in a way that will hopefully make sense.
+We’re doing this because we believe helping a lot of people be better at starting companies will be good for everyone. It will hopefully be valuable even for people who don’t want to start startups.
+Talks like these have really helped Y Combinator founders create their companies. We hope you find it helpful too!
+
+
+
+          
+
+
+Date
+Speaker
+Topic
+
+
+9/23/14
+Sam Altman, President, Y Combinator 
+Welcome, and Ideas, Products, Teams and Execution Part I
+
+
+9/25/14
+Sam Altman, President, Y Combinator 
+Ideas, Products, Teams and Execution Part II
+
+
+9/30/14
+Paul Graham, Founder, Y Combinator 
+How to Have Ideas and How to Get Started
+
+
+10/2/14
+Adora Cheung, Founder, Homejoy 
+Building Product, Talking to Users, and Growing
+
+
+10/7/14
+Peter Thiel, Founder, Paypal & Palantir, and Partner, Founders Fund 
+Business Strategy and Monopoly Theory
+
+
+10/9/14
+Alex Schultz, VP Growth, Facebook 
+Growth
+
+
+10/14/14
+Kevin Hale, Founder, Wufoo and Partner, Y Combinator 
+How to Build Products Users Love, Part I
+
+
+10/16/14
+TBA 
+ 
+
+
+10/21/14
+Marc Andreessen, Founder, Andreessen Horowitz and Founder, Netscape Ron Conway, Founder, SV Angel Ben Silbermann, Founder & CEO, Pinterest 
+How to Raise Money
+
+
+10/23/14
+Alfred Lin, Former COO, Zappos and Partner, Sequoia Capital 
+Company Culture and Buliding a Team, Part I
+
+
+10/28/14
+Patrick and John Collison,Founders, Stripe 
+Company Culture and Building a Team, Part II
+
+
+10/30/14
+Aaron Levie, Founder, Box 
+Sales and Marketing
+
+
+11/4/14
+Reid Hoffman, Partner, Greylock Ventures and Founder, LinkedIn 
+TBA
+
+
+11/6/14
+Keith Rabois, Partner, Khosla Ventures 
+How to Operate
+
+
+11/11/14
+Ben Horowitz, Founder, Andreessen Horowitz, and Founder, and Opsware 
+How to Manage
+
+
+11/13/14
+Marissa Mayer, CEO, Yahoo 
+TBA
+
+
+11/18/14
+Hosain Rahman, Founder, Jawbone 
+How to Build Products Users Love, Part II
+
+
+11/20/14
+Kirsty Nathoo and Carolynn Levy, Partners, Y Combinator 
+Mechanics--Legal, Finance, HR, etc.
+
+
+12/2/14
+TBA 
+ 
+
+
+12/4/14
+Sam Altman, President, Y Combinator 
+Closing Thoughts and Later-Stage Advice"
+10,https://www.classcentral.com/course/stanford-openedx-convex-optimization-1577,"This course concentrates on recognizing and solving convex optimization problems that arise in applications. The syllabus includes: convex sets, functions, and optimization problems; basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory, theorems of alternative, and applications; interior-point methods; applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance.
+PREREQUISITES
+You should have good knowledge of linear algebra and exposure to probability. Exposure to numerical computing, optimization, and application fields is helpful but not required; the applications will be kept basic and simple. You will use matlab and CVX to write simple scripts, so some basic familiarity with matlab is helpful. We will provide some basic Matlab tutorials."
+11,https://www.classcentral.com/course/ml-regression-4289,"Case Study - Predicting Housing Prices
+
+In our first case study, predicting house prices, you will create models that predict a continuous value (price) from input features (square footage, number of bedrooms and bathrooms,...).  This is just one of the many places where regression can be applied.  Other applications range from predicting health outcomes in medicine, stock prices in finance, and power usage in high-performance computing, to analyzing which regulators are important for gene expression.
+
+In this course, you will explore regularized linear regression models for the task of prediction and feature selection.  You will be able to handle very large sets of features and select between models of various complexity.  You will also analyze the impact of aspects of your data -- such as outliers -- on your selected models and predictions.  To fit these models, you will implement optimization algorithms that scale to large datasets.
+
+Learning Outcomes:  By the end of this course, you will be able to:
+   -Describe the input and output of a regression model.
+   -Compare and contrast bias and variance when modeling data.
+   -Estimate model parameters using optimization algorithms.
+   -Tune parameters with cross validation.
+   -Analyze the performance of the model.
+   -Describe the notion of sparsity and how LASSO leads to sparse solutions.
+   -Deploy methods to select between models.
+   -Exploit the model to form predictions. 
+   -Build a regression model to predict prices using a housing dataset.
+   -Implement these techniques in Python.
+      
+
+
+            Read more
+          
+
+
+
+          Welcome
+    -Regression is one of the most important and broadly used machine learning and statistics tools out there.  It allows you to make predictions from data by learning the relationship between features of your data and some observed, continuous-valued response.  Regression is used in a massive number of applications ranging from predicting stock prices to understanding gene regulatory networks.This introduction to the course provides you with an overview of the topics we will cover and the background knowledge and resources we assume you have.
+
+Simple Linear Regression
+    -Our course starts from the most basic regression model: Just fitting a line to data.  This simple model for forming predictions from a single, univariate feature of the data is appropriately called ""simple linear regression"". In this module, we describe the high-level regression task and then specialize these concepts to the simple linear regression case. You will learn how to formulate a simple regression model and fit the model to data using both a closed-form solution as well as an iterative optimization algorithm called gradient descent.  Based on this fitted function, you will interpret the estimated model parameters and form predictions.  You will also analyze the sensitivity of your fit to outlying observations. You will examine all of these concepts in the context of a case study of predicting house prices from the square feet of the house.
+
+Multiple Regression
+    -The next step in moving beyond simple linear regression is to consider ""multiple regression"" where multiple features of the data are used to form predictions.   More specifically, in this module, you will learn how to build models of more complex relationship between a single variable (e.g., 'square feet') and the observed response (like 'house sales price').  This includes things like fitting a polynomial to your data, or capturing seasonal changes in the response value.  You will also learn how to incorporate multiple input variables (e.g., 'square feet', '# bedrooms', '# bathrooms').  You will then be able to describe how all of these models can still be cast within the linear regression framework, but now using multiple ""features"".   Within this multiple regression framework, you will fit models to data, interpret estimated coefficients, and form predictions. Here, you will also implement a gradient descent algorithm for fitting a multiple regression model.
+
+Assessing Performance
+    -Having learned about linear regression models and algorithms for estimating the parameters of such models, you are now ready to assess how well your considered method should perform in predicting new data.  You are also ready to select amongst possible models to choose the best performing.   This module is all about these important topics of model selection and assessment.  You will examine both theoretical and practical aspects of such analyses. You will first explore the concept of measuring the ""loss"" of your predictions, and use this to define training, test, and generalization error.  For these measures of error, you will analyze how they vary with model complexity and how they might be utilized to form a valid assessment of predictive performance.  This leads directly to an important conversation about the bias-variance tradeoff, which is fundamental to machine learning.  Finally, you will devise a method to first select amongst models and then assess the performance of the selected model. The concepts described in this module are key to all machine learning problems, well-beyond the regression setting addressed in this course.
+
+Ridge Regression
+    -You have examined how the performance of a model varies with increasing model complexity, and can describe the potential pitfall of complex models becoming overfit to the training data.   In this module, you will explore a very simple, but extremely effective technique for automatically coping with this issue.  This method is called ""ridge regression"".  You start out with a complex model, but now fit the model in a manner that not only incorporates a measure of fit to the training data, but also a term that biases the solution away from overfitted functions.  To this end, you will explore symptoms of overfitted functions and use this to define a quantitative measure to use in your revised optimization objective.  You will derive both a closed-form and gradient descent algorithm for fitting the ridge regression objective; these forms are small modifications from the original algorithms you derived for multiple regression.  To select the strength of the bias away from overfitting, you will explore a general-purpose method called ""cross validation"". You will implement both cross-validation and gradient descent to fit a ridge regression model and select the regularization constant.
+
+Feature Selection & Lasso
+    -A fundamental machine learning task is to select amongst a set of features to include in a model.  In this module, you will explore this idea in the context of multiple regression, and describe how such feature selection is important for both interpretability and efficiency of forming predictions.  To start, you will examine methods that search over an enumeration of models including different subsets of features.  You will analyze both exhaustive search and greedy algorithms.  Then, instead of an explicit enumeration, we turn to Lasso regression, which implicitly performs feature selection in a manner akin to ridge regression: A complex model is fit based on a measure of fit to the training data plus a measure of overfitting different than that used in ridge.  This lasso method has had impact in numerous applied domains, and the ideas behind the method have fundamentally changed machine learning and statistics. You will also implement a coordinate descent algorithm for fitting a Lasso model. Coordinate descent is another, general, optimization technique, which is useful in many areas of machine learning. 
+
+Nearest Neighbors & Kernel Regression
+    -Up to this point, we have focused on methods that fit parametric functions---like polynomials and hyperplanes---to the entire dataset.  In this module, we instead turn our attention to a class of ""nonparametric"" methods.  These methods allow the complexity of the model to increase as more data are observed, and result in fits that adapt locally to the observations.   We start by considering the simple and intuitive example of nonparametric methods, nearest neighbor regression: The prediction for a query point is based on the outputs of the most related observations in the training set.  This approach is extremely simple, but can provide excellent predictions, especially for large datasets. You will deploy algorithms to search for the nearest neighbors and form predictions based on the discovered neighbors.  Building on this idea, we turn to kernel regression.  Instead of forming predictions based on a small set of neighboring observations, kernel regression uses all observations in the dataset, but the impact of these observations on the predicted value is weighted by their similarity to the query point.  You will analyze the theoretical performance of these methods in the limit of infinite training data, and explore the scenarios in which these methods work well versus struggle.  You will also implement these techniques and observe their practical behavior.
+
+Closing Remarks
+    -In the conclusion of the course, we will recap what we have covered.  This represents both techniques specific to regression, as well as foundational machine learning concepts that will appear throughout the specialization.  We also briefly discuss some important regression techniques we did not cover in this course. We conclude with an overview of what's in store for you in the rest of the specialization."
+12,https://www.classcentral.com/course/edx-finance-essentials-6860,"Want to study for an MBA but are unsure of basic financial concepts? This business and management course prepares you for studying finance in an MBA program and in business generally.
+You will learn key financial topics such as present value, Internal Rate of Return (IRR), capital budgeting, equity, bonds, diversification, portfolio choice and the Capital Asset Pricing Model (CAPM), all of which are often discussed and explored in great detail in MBA programs across the globe as well as everyday business operations.
+A completely online course, you can work wherever and whenever you choose: at home, in the workplace, at a library, coffee shop or even while travelling (with the appropriate network access).
+This course employs a 'supported learning' model. To help you achieve the optimum learning outcomes from this module, Imperial College Business School provides access to an expert online tutor who will support you through the learning materials and associated activities.
+No previous financial knowledge is needed. Join us as you start your journey into the world of finance for management.
+
+
+
+
+Using financial tools in context
+Bonds
+Equity
+Diversification
+CAPM and betas"
+13,https://www.classcentral.com/course/whartonfinancees-4688,"Este curso proporciona una breve introducción a los fundamentos de las finanzas. Puedes aplicar estas habilidades en un reto empresarial real como parte de la Programa Especializado de Fundamentos Empresariales de Wharton.
+      
+
+
+          Semana 1: Valor Tiempo del Dinero
+    -¡Te doy la bienvenida a Finanzas Corporativas! En este primer módulo conocerás uno de los conceptos fundamentales más importantes en Finanzas, el valor tiempo del dinero. Antes de sumergirte en las vídeo lecciones, te animo a que eches un vistazo unas breves lecturas que te ayudará en  el curso. Especialmente, echa un vistazo a “Visión Global de la Motivación del Curso” para obtener motivación adicional y contexto para el curso, “ Resumen del Valor Tiempo del Dinero”, para conseguir motivación y contexto sobre nuestro primer tema, e “Introducción de Respuestas en Problemas de Cuestionarios”. Este último es especialmente importante para evitar confusión con los grupos de problemas. Después, dirígete a las vídeo lecciones y ¡comienza a aprender Finanzas!
+
+Semana 2
+    -En este módulo, concluiremos el  tema del Valor Tiempo del Dinero con un debate sobre la inflación antes de avanzar al segundo tema, Tipo de Interés, y presentar nuestro tercer tema, Análisis de Flujo de Fondos Descontados. Al final de este módulo, te sentirás cómodo descontando y componiendo flujos de efectivo arbitrarios para valorar diferentes reclamaciones y tomar mejores decisiones financieras.
+
+Semana 3
+    -Este módulo continua con nuestra discusión sobre el análisis de flujo de fondos descontados en forma de un caso de presupuesto del capital. ( Puede que quieras descargar o ver el documento Excel que uso en las lecciones, “Tablet Case Spreadsheet.xlsx,” pero que no es necesario para comprender el material). Al final de este módulo  deberías sentirte cómodo valorando reclamaciones y tomando decisiones financieras en las que el tiempo del flujo de efectivo y de la composición del interés es arbitraria (p.e. anual,  trimestral, mensual, etc.) Trabajando los problemas, también dominarás la toma de decisiones financiera en el mundo real relacionada con los ahorros de jubilación, financiación y refinanciación de viviendas, arrendamiento de coches y otros escenarios.
+
+Semana 4
+    -Este módulo cierra la discusión sobre el análisis de flujo de fondos descontados y clausura el curso con un debate sobre el retorno de inversión. Al final de este módulo, manejarás la noción de flujo de efectivo libre y la  habilidad de aplicar un conjunto de impulsores de predicciones para proyectar flujos de efectivo libre en el futuro. Estos son algunos de los elementos de un modelo financiero básico, que usaremos para adoptar una decisión sobre el proyecto y para analizar las hipótesis detrás de nuestra valoración."
+14,https://www.classcentral.com/course/starting-a-business-6-5013,"##
+A successful business requires funding to get it started. There are many ways to get your business up and running, from the informal such as personal savings and borrowing, borrowing from friends and family, to the more formal avenues like bank loans, raising equity to crowd-funding. This course will help you consider the finance options available for businesses, and how to fund the expansion of a business.
+This is the final course in a series of six about ‘starting a business’.
+This course is part of the Going to University collection which has been specifically designed for students at schools and colleges. They provide a taster of undergraduate study at the University of Leeds and help students to decide which subject to study at university.
+Completion of the courses will also enhance students’ university applications.
+The courses can also be used as a teachers’ classroom enrichment resource.
+Courses in this collection are also great for people that want an introduction in the specific subjects discussed in each course."
+15,https://www.classcentral.com/course/starting-a-business-5-5012,"##
+The management of finances is crucial to a successful business; financial information provides the evidence to support your decisions about a business and helps to justify those decisions when you present them to other people. Whether you have an idea for a future venture or you already have a side-line business whilst studying, this course will introduce you to key financial information and gives you a chance to discuss your ideas with others.
+This course is the fifth in a series of six about ‘starting a business’.
+This course is part of the Going to University collection which has been specifically designed for students at schools and colleges. They provide a taster of undergraduate study at the University of Leeds and help students to decide which subject to study at university.
+Completion of the courses will also enhance students’ university applications.
+The courses can also be used as a teachers’ classroom enrichment resource.
+Courses in this collection are also great for people that want an introduction in the specific subjects discussed in each course."
+16,https://www.classcentral.com/course/constitution-2082,"This course offers an introduction to the U.S. Constitution and landmark Supreme Court cases interpreting it. It explores the Constitution’s origins, its amendment over the years, and methods of constitutional interpretation. Topics include the nature and structure of the federal government, the powers of the federal government, and individual rights.
+      
+
+
+          The Constitution and Three Branches of Government
+    -Classes 1, 2, and 3 discuss why we need a Constitution and the history that preceded its drafting. You will learn about the two conflicting lessons the founders learned from the Revolution and the failure of the Articles of Confederation: the national government can become a tyrant if it is too strong, but the nation will fall apart if it is too weak. These lectures explore how the drafters sought to balance these concerns in the original Constitution and the many compromises it contains. You will also learn about two approaches to interpreting the Constitution: Originalism and Living Constitutionalism. Classes 4, 5, and 6 explore the powers of the legislative, executive, and judicial branches of government and the separation of powers between those branches. The Framers gave the federal government limited powers, and divided those powers among the three branches in order to protect individual liberty and state authority. 
+
+Amendments and the First Amendment
+    -This segment first explores constitutional amendments, including the Bill of Rights, and the Reconstruction and Progressive-era Amendments. Then, we will take a detailed look at one of the most important amendments: the First. We will learn about the constitutional protections for speech and religion, how they have changed over time, and how they apply to various circumstances. Finally, we will learn about the Establishment Clause and what it means in today's society. 
+
+Criminal Procedure and Federalism and Nationalism
+    -We begin here by looking at another group of very important constitutional provisions: the Fourth, Fifth, and Sixth Amendments, which guarantee rights to individuals accused of committing crimes. These amendments protect us against unreasonable searches, ensure our right to remain silent in the face of police questioning, and allow us to demand the assistance of counsel and trial by jury. These rights are fundamental to our system of criminal justice.
+
+Then we will shift our focus to examining the Second Amendment, the right to bear arms, and incorporation. We will also discuss the Ninth and Tenth Amendments, unenumerated rights, and states' rights, and finish by considering the implications of the Civil War and Reconstruction for the balance of power between the federal government and the states. 
+
+The Fourteenth Amendment and Modern Controversies
+    -The first three lessons consider the equal protection and due process clauses of the 14th Amendment. We will begin by discussing race discrimination and the anti-classification and anti-subordination perspectives on equal protection. Next, we will discuss sex discrimination and the right to an abortion derived from the due process clause. Finally, we will examine discrimination based on sexual orientation, and the social progression of major civil rights movements in the United States. The final three lessons in this module consider some modern constitutional controversies. First, we will learn about presidential war powers. Next, we will analyze free speech in the context of campaign finance reform. Finally, we will discuss federal legislative power with a focus on health care reform."
+17,https://www.classcentral.com/course/edx-civil-liberties-11764,"“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the Pursuit of Happiness.”These stirring words from the Declaration of Independence are at the very foundation of the American tradition of civil liberties. In this course, we explore this tradition from its beginning with the Declaration of Independence, the Constitution, and the Federalist Papers, through a number of notable historical and contemporary cases in which claims to rights and liberties have been at stake. We will examine issues of slavery, segregation, abortion, campaign finance, free speech, religion, affirmative action, and marriage.  Our discussion will be guided by thinkers like John Locke, John Stuart Mill, Friedrich Hayek, and Martin Luther King Jr., as well as important Supreme Court opinions, such as the majority and dissenting opinions in Dred Scott v. Sandford (on slavery), Brown v. Board of Education (on segregation), Roe v. Wade (on abortion), Citizens United v. FEC (on campaign finance and free speech), and Obergefell v. Hodges (on marriage).We do not seek unanimity of opinion, but rather a deepening of understanding. Whatever your views happen to be—liberal, conservative, whatever—they will be sympathetically explored but also challenged. The goal of the course is not to persuade you to think as anyone else does; rather, it is to encourage and empower you to think about disputed questions of civil rights and liberties more deeply, more critically, and for yourself.
+
+
+
+            Read more"
+18,https://www.classcentral.com/course/personalfinance-3965,"Financial Planning for Young Adults (FPYA), developed in partnership with the CFP Board, is designed to provide an introduction to basic financial planning concepts for young adults. The FPYA course is organized across eight separate modules within a 4-week window. Topics covered include financial goal setting, saving and investing, budgeting, financial risk, borrowing and credit. Because financial planning is such a personal topic, you will be encouraged to define your own financial goals and objectives while we discuss concepts and provide tools which can be applied in helping you reach those goals.
+
+Within each module, you will view a combination of traditional lecture style videos along with video vignettes that introduce financial topics for discussion among participants. The video vignettes provide a unique and exciting component to this course. Each vignette introduces a real-world scenario where financial decisions must be made and financial planning concepts can be applied. You will be challenged to think critically about each scenario and decide how you might come to a resolution if ever faced with a similar situation.
+
+Finally, the course also includes material throughout which is focused on career opportunities in financial planning, including video interviews with actual CFP® professionals and other professionals working in this exciting and growing career area. The final module in the class is devoted to the topic of financial planning as a career.
+      
+
+
+            Read more
+          
+
+
+
+          Orientation
+
+Module 1: Setting Financial Goals and Assessing Your Situation
+    -In this module, you'll explore the ""personal"" in personal finance, use financial tools to assess where you are currently with your finances, and begin setting goals for where you'd like to be in the future.
+
+Module 2: Budgeting and Cash Flow Management
+    -In this module, we will discuss the importance of budgeting in the financial planning and management process, and resources available for cash flow management.  Learners will be exposed to the basic process of budgeting, a panel discussion with practicing investment advisors, and a comparative discussion of the more common tools and methods for managing cash flows.
+
+Module 3: Saving Strategies
+    -In this module you'll have the opportunity to explore best practices for building a saving habit and discuss barriers to saving. Mental accounting will be introduced and considered in terms of how it can affect saving behavior.
+
+Module 4: The Time Value of Money
+    -Understanding why the time value of money is a very important concept -- so important it has its own module!
+
+Module 5: Borrowing and Credit
+    -The ability to use debt and credit to finance purchases has its advantages and disadvantages. Understanding topics related to loan repayment and how your borrowing and credit use behavior may impact your credit report is critical for being able to have access to debt and credit use in the future.
+
+Module 6: Investing
+    -In this module you'll be introduced to investment terms and key investment strategies. This foundation will allow you to better understand investment choices and information that you'll encounter throughout your life.
+
+Module 7: Risk Management
+    -This module covers risk related topics related to insurance, and introduces learners to the concept of personal risk tolerance and how it might impact individualized risk management strategies.
+
+Module 8: Financial Planning as a Career
+    -The module provides an overview of the career opportunities in financial planning. You will get to see what it is like to engage and assist people (clients) from a variety of walks-of life. This module is optional in terms of completion of the course certificate. There is no required assignment in this module."
+19,https://www.classcentral.com/course/assetpricing2-2873,"Are you curious about quantitative academic finance? Have you considered graduate study in finance? Are you working in an investment bank, money-management firm or hedge fund and you want to understand models better? Would you like to know what buzzwords like beta, risk premium, risk-neutral price, arbitrage, equity premium, and discount factor mean? This class is for you. We will see how one basic idea, price equals expected discounted payoff, unites everything - models that describe stocks, bonds, options, real investments, discrete time, continuous time, asset pricing, portfolio theory, and so forth. This second part follows Asset Pricing, Part I. However, students somewhat familiar with the material in that class will be able to take this class independently.  We start by seeing classic factor pricing models in action, first by studying the Fama French three factor model and then by studying the question whether portfolio managers have skill or not. We’ll look in depth at the time-series predictability of returns, “bubbles,” and volatility. We will study the equity premium and the link between asset pricing and macroeconomics. We’ll extend the theory to cover options, then bonds, and study the facts about the term structure of interest rates. The course closes with portfolio theory, how should investors structure their investment portfolios. The math in real, academic,  finance is not actually that hard. Understanding how to use the equations, and see what they really mean about the world... that's hard, and that's what I hope will be uniquely rewarding about this class.
+      
+
+
+            Read more
+          
+
+
+
+Week 1: Factor Pricing Models in ActionWeek 2: Time Series Predictability, Volatility and BubblesWeek 3: Macroeconomics and Asset PricingWeek 4: Option PricingWeek 5: Term Structure Models and FactsWeek 6: Portfolio Theory"
+20,https://www.classcentral.com/course/edx-foreign-exchange-markets-concepts-instruments-risks-and-derivatives-11720,"In this course, part of the Professional Certificate program ‘Risk Management in Banking and Financial Markets’, we will learn the theory and structure of foreign exchange markets, the instruments that are traded and the trading and settlement mechanisms. We will also learn how to identify, assess and manage foreign exchange risk as well as the role of derivative instruments in hedging these risks.Thanks to the economic liberalization in several countries over the last few decades, the world has witnessed an exponential increase in the free flow of capital across countries, even more so in emerging economies. This has resulted in a globally interconnected ecosystem of banks and financial markets engaged in foreign exchange transactions that are continuously growing in volume, sophistication and complexity. That, in turn, has attracted a plethora of participants whose explicit intention is to either profit from or hedge against the heightened level of risks in the foreign exchange markets.   This course will unravel those complexities and help you gain a comprehensive understanding of foreign exchange markets: the underlying theories, the instruments traded, the associated risks such as transaction exposure, operating exposure, translation exposure, etc. and how those risks are addressed/redressed using several techniques including using derivative instruments such as currency options, currency futures and currency swaps.  This course is part of IIMBx's Professional Certificate program ‘Risk Management in Banking and Financial Markets’. 
+
+
+
+            Read more"
+21,https://www.classcentral.com/course/independent-the-location-advantage-3372,"Location analytics uses the locational component of business data to improve users' understanding of their market, customers, and business processes. Organizations throughout the world use location analytics to make better decisions and gain a competitive advantage. This free, instructor-led MOOC explores the capabilities of Esri Business Analyst Online.
+
+
+
+Section 1
+The Location Advantage in Business
+This lesson will show how using location information can enhance analysis and help businesses optimize resources, visualize assets, and streamline workflow processes.
+Section 2
+Understanding Market Opportunity
+Market planning is the process of analyzing one or more markets to determine how a business can optimally compete. Location plays a key role in understanding and prioritizing this strategy.
+Section 3
+Choosing the Right Location
+Where you locate your business will have a major impact on how well it performs. Choosing the right location could be the difference between business success and failure.
+Section 4
+Understanding Your Customer
+Marketing is the process of promoting, selling, and distributing a product or service. This lesson will focus on market segmentation, a key method for dividing a target market into consumer subsets.
+Section 5
+Improving Supply-Chain Management with Spatial Analysis
+In this lesson, you will learn how to examine the supply chain by using location information flow and logistics to gain a competitive advantage and increase customer satisfaction.
+Section 6
+Avoiding Risk with Location-Based Decision Making
+The identification, assessment, and prioritization of risks, paired with existing resources, can help determine the probability of future events to maximize the realization of opportunities."
+22,https://www.classcentral.com/course/complexity-explorer-random-walks-11487,"The goal of this tutorial is to outline some elementary, but beautiful aspects of random walks.  Random walks are ubiquitous in nature.  They naturally arise in describing the motion of microscopic particles, such as bacteria or pollen grains, whose motion is governed by being buffeted by collisions with the molecules in a surrounding fluid.  Random walks also control many type of fluctuation phenomena that arise in finance.
+The tutorial begins by presenting examples of random walks in nature and summarizing important classes of random walks.  We'll then give a quantitative discussion of basic properties of random walks.  We'll show that the root mean-square displacement of a random walk grows as the square-root of the elapsed time.  Next, we will determine the underlying probability distribution of a random walk.  In the long-time limit, this distribution is independent of almost all microscopic details of the random-walk motion.  This universality is embodied by the central-limit theorem.  In addition to presenting this theorem, we'll also discuss the anomalous features that arise when the very mild conditions that underlie the central-limit theorem are not satisfied.  Finally, we will show how to recover the diffusion equation as the continuum limit of the evolution equation for the probability distribution of a random walk.
+We will then present some basic first-passage properties of random walks, which address the following simple question: does a random walk reach a specified point for the first time?  We will determine the first-passage properties in a finite interval; specifically, how long does it take for a random walk to leave an interval of length L, and what is the probability to leave either end of the interval as a function of the starting location.  Finally, we'll discus the application of first-passage ideas to reaction-rate theory, which defines how quickly diffusion-controlled chemical reactions can occur.
+Note that Complexity Explorer tutorials are meant to introduce students to various important techniques and to provide illustrations of their application in complex systems.  A given tutorial is not meant to offer complete coverage of its topic or substitute for an entire course on that topic.   
+This tutorial is designed for more advanced math students.  Math prerequisites for this course are an understanding of calculus, basic probability, and Fourier transforms.
+ 
+
+
+
+            Read more
+          
+
+
+
+
+Introduction
+Root Mean Square Displacement
+Role of the Spatial Dimension
+Probability Distribution and Diffusion Equation
+Central Limit Theorem
+First Passage Phenomena
+Elementary Applications of First Passage Phenomena
+Final Remarks
+Homework"
+23,https://www.classcentral.com/course/edx-finance-for-everyone-smart-tools-for-decision-making-4808,"Want to learn how to think clearly about important financial decisions and improve your financial literacy? Finance for Everyone will showcase the beauty and power of finance. This introductory finance course will be a gateway into the world of finance and will examine multiple applications to apply to your everyday life. Join us to better understand how to apply frameworks and tools to make smart financial choices.
+You will be able to value the impact of different choices available to you: from renting or buying, evaluating car, home and student loans, or deciding whether to go to college versus pursuing a new idea to simply understanding how the financial world works.
+Starting with time value of money, the course will help you develop a full appreciation for the many applications of finance. Using real world examples, the course will enable you to understand and analyze many personal and professional decisions we confront on a daily basis. You will understand stocks and bonds, learn to allocate scarce resources in a value-add way, and adopt smart tools for making every day decisions.
+Finance is simultaneously a way of thinking and a set of tools. Finance is everywhere. There are no prerequisites for this course except for a sense of curiosity and a positive attitude. However, a comfort level with algebra and numbers and an understanding of accounting (the language of business) will clearly help. We will, however, try to cover everything starting with fundamentals and highlight when there is a need to do some further work in specific subjects.
+
+
+
+            Read more"
+24,https://www.classcentral.com/course/investments-2743,"Important update: this course will close to new learner enrollment on July 24, 2016. If you’re interested in earning a Certificate in this course, please upgrade either by purchasing the Certificate or by applying for Financial Aid before this July 24. 
+
+This course will continue to run until January 25, 2017 however it will no longer be available for purchase or enrollment after July 24. The University of Illinois will be including amended versions of these courses in two new Specializations which will soon be available in our Course Catalog. Course credit will not be transferrable from this course to the new Specialization.
+===
+Learn the fundamental principles of trading off risk and return, portfolio optimization, and security pricing—useful skills and concepts to have when making both corporate and personal financial decisions. Also explore market efficiency and firm valuation techniques.
+
+This course is part of the iMBA offered by the University of Illinois, a flexible, fully-accredited online MBA at an incredibly competitive price. For more information, please see the Resource page in this course and onlinemba.illinois.edu.
+      
+
+
+Course Overview In this module, you will become familiar with the course, your instructor, your classmates, and our learning environment. The orientation also helps you obtain the technical skills required for the course.Module 1: Investments Toolkit and Portfolio FormationIn Module 1, we will build the fundamentals of portfolio formation.  After providing a brief refresher of basic investment concepts (our toolkit), a summary of historical patterns of stock returns and government securities in the U.S. is provided.  We then consider general examples of portfolio choice to highlight the tradeoffs between “risk” and return.  We end the module with a discussion of dominated assets and efficient portfolio formation, emphasizing real-world examples and practice in Excel solving for the optimal portfolio given certain constraints (such as the amount of volatility we will accept in our portfolio). Module 2: Motivating, Explaining, & Implementing the Capital Asset Pricing Model (CAPM)In Module 2, we will develop the financial intuition that led to the Capital Asset Pricing Model (CAPM), starting with the Separation Theorem of Investments.  We will understand that in a CAPM setting, only the market-wide risk of an asset is priced – securities with greater sensitivity to the market are required by investors to yield higher returns on average.  We will also learn how to interpret regressions that provide us with both a benchmark to use for a security given its risk (determined by its beta), as well as a risk-adjusted measure of the security’s performance (measured by its alpha).Module 3: Testing the CAPM, Multifactor Models, & Market EfficiencyIn Module 3, we will discuss different asset-pricing models, the pros and cons of each, and market efficiency.  In particular, we will test the effectiveness of the Capital Asset Pricing Model (CAPM) and examine survey data concerning its use by chief financial officers (CFOs) of firms.  Predictable patterns in stock returns, such as the size and value effects, will also be examined and the Fama-French 3-Factor Model will be introduced.  Market efficiency will be discussed in this module, as well as its implications for the asset-management industry and observed patterns in stock returns.Module 4: Investment Finance and Corporate Finance: Firm ValuationIn Module 4, we will learn about the two key approaches to valuing a company or stock: market multiples and discounted cash flow.  We will learn how to value perpetuities and will discuss how caution should be exercised in terms of projecting both the growth in long-term cash flows and the riskiness of those cash flows – two key components of the perpetuity formula.  To gain experience with the market multiples approach, we will estimate a value of Google at the time of its initial public offering (IPO) back in 2004 using market data on Yahoo! as a comparable firm.  Finally, the module closes with an assignment that will provide you with an opportunity to conduct a valuation of either Apple, Facebook, or Google.Course ConclusionIn this module, we say goodbye to the Investments course as key takeaways from the course are reviewed. A tease is also provided to topics that will be covered in Professor Weisbenner's second course on Investments."
+25,https://www.classcentral.com/course/python-statistics-financial-analysis-12648,"Course Overview: https://youtu.be/JgFV5qzAYno
+
+Python is now becoming the number 1 programming language for data science. Due to python’s simplicity and high readability, it is gaining its importance in the financial industry.  The course combines both python coding and statistical concepts and applies into analyzing financial data, such as stock data.
+
+By the end of the course, you can achieve the following using python:
+
+- Import, pre-process, save and visualize financial data into pandas Dataframe
+
+- Manipulate the existing financial data by generating new variables using multiple columns
+
+- Recall and apply the important statistical concepts (random variable, frequency, distribution, population and sample, confidence interval, linear regression, etc. ) into financial contexts
+
+- Build a trading model using multiple linear regression model 
+
+- Evaluate the performance of the trading model using different investment indicators
+
+Jupyter Notebook environment is configured in the course platform for practicing python coding without installing any client applications.
+      
+
+
+          Visualizing and Munging Stock Data
+    -Why do investment banks and consumer banks use Python to build quantitative models to predict returns and evaluate risks? What makes Python one of the most popular tools for financial analysis? You are going to learn basic python to import, manipulate and visualize stock data in this module. As Python is highly readable and simple enough, you can build one of the most popular trading models - Trend following strategy by the end of this module!
+
+Random variables and distribution
+    -In the previous module, we built a simple trading strategy base on Moving Average 10 and 50, which are ""random variables"" in statistics. In this module, we are going to explore basic concepts of random variables. By understanding the frequency and distribution of random variables, we extend further to the discussion of probability. In the later part of the module, we apply the probability concept in measuring the risk of investing a stock by looking at the distribution of log daily return using python. Learners are expected to have basic knowledge of probability before taking this module.
+
+Sampling and Inference 
+    -In financial analysis, we always infer the real mean return of stocks, or equity funds, based on the  historical data of a couple years. This situation is in line with a core part of statistics - Statistical Inference - which we also base on sample data to infer the population of a target variable.In this module, you are going to understand the basic concept of statistical inference such as population, samples and random sampling. In the second part of the module, we shall estimate the range of mean return of a stock using a concept called confidence interval, after we understand the distribution of sample mean.We will also testify the claim of investment return using another statistical concept - hypothesis testing.
+
+Linear Regression Models for Financial Analysis
+    -In this module, we will explore the most often used prediction method - linear regression. From learning the association of random variables to simple and multiple linear regression model, we finally come to the most interesting part of this course: we will build a model using multiple indices from the global markets and predict the price change of an ETF of S&P500.; In addition to building a stock trading model, it is also great fun to test the performance of your own models, which I will also show you how to evaluate them!"
+26,https://www.classcentral.com/course/polimi-open-knowledge-finanza-per-tutti-8814,"La finanza è ormai parte integrante della vita quotidiana. L’apertura di un conto corrente, decidere come investire i propri risparmi, la necessità di chiedere un prestito o un finanziamento.
+Lo scopo del corso è quello di fornirti tutti gli strumenti necessari per affrontare queste (e altre) scelte con cognizione di causa, soprattutto avendo ben chiari quali sono i possibili rischi e le insidie che potresti trovarti a fronteggiare. Il rischio infatti è insito nella vita quotidiana e nel mondo della finanza, ma, attraverso questo corso, imparerai a conoscerlo meglio.
+Nel nostro percorso ti proponiamo quindi di affrontare le principali questioni finanziarie, da come scegliere un mutuo, a come investire i tuoi risparmi, a come confrontarti con la tua banca, partendo dai concetti finanziari di base."
+27,https://www.classcentral.com/course/edx-introduction-to-actuarial-science-3875,"You may have heard of actuarial science, or you might even know an actuary, but do you know what an actuary does? During the course you’ll hear from a wide variety of actuaries about their careers.
+And don’t be scared that the course will be “just a whole lot of mathematics”. Together, we will go beyond the math to learn how actuaries approach problems relating to risk, using examples from:
+
+Finance
+Investments
+Banking
+Insurance
+
+You will learn how actuarial science applies mathematical and statistical methods to assess risk in these industries and other professions.
+You’ll experience “hands-on” learning using Excel (or an equivalent spreadsheet tool) to project and investigate the financial condition of a company choosing appropriate strategies for the company through the use of simulations.
+The course has been carefully designed for students from a wide variety of backgrounds, with secondary/high school level being the only assumption of mathematical background. Even if you don’t have any background in, for example, calculus, the course has been designed so you can skip over these sections without affecting your understanding of the rest of the course. You also do not need to have any Excel or other spreadsheet background to take the course.
+For those with stronger mathematical backgrounds, extension questions are provided to test you further. You’ll learn a huge amount about actuarial science no matter what your background is!
+""Great introduction to this specialized field; every day there are new challenges where as a student you are put in a situation to learn and apply the lessons with practical exercises. Great structure of the course, with main concepts to review at the end of a lesson. I would recommend to anyone who would like to learn more about actuarial science."" - Previous student
+
+
+
+            Read more
+          
+
+
+
+Lesson 1: Valuing Cash Flows
+Time Value of Money
+Present Value
+Accumulated Value
+Valuing Multiple Regular Payments 
+Lesson 2: Applications of Valuing Cash Flows
+Equations of Value
+Example – Annuity Certain
+Application in Spreadsheets
+Lesson 3: Analysis of State Transitions
+Introduction to State Transitions
+Two State Model (Active/Dead)
+Calculating Probabilities using the Two State Model 
+Lesson 4: The Life Table
+Introduction to the Life Table
+Calculating Probabilities using the Life Table 
+Lesson 5: Valuing Uncertain Cash Flows
+Expected Present Value
+Accumulated Value and Uncertainty
+Lesson 6: Modelling a Life Insurance Company 1
+The Life Insurance Company Scenario
+A Single Projection
+Simulations
+Analysing the Simulation Output
+Lesson 7: Modelling a Life Insurance Company 2
+Reserves
+Adjustments to Reserves
+Additional Scenarios"
+28,https://www.classcentral.com/course/edx-supply-chain-design-4067,"This Supply Chain Design course is part of the MITx MicroMasters Credential in Supply Chain Management, offered by #1 ranked SCM Master's program at the Massachusetts Institute of Technology.
+CTL.SC2x Supply Chain Design covers all aspects involved in the design of supply chains for companies and organizations anywhere in the world. The course is divided into four main topic areas: Physical flow design, Supply chain finance, Information flow design, and Organization/Process design. In the design of physical flows, we show how to formulate and solve Transportation, Transshipment, Facility Location, and Network Design Problems. For financial flows we show how to translate supply chain concepts and actions into the language of the Chief Financial Officer (CFO) of a company. We cover Activity Based Costing, Working Capital, the Cash-to-Cash cycle and Discounted Cash Flow Analysis. The design of the information flow section describes how firms communicate with suppliers (procurement, risk contracts), internal resources (production planning, bills of materials, material requirements planning), and customers (Sales & Operations Planning and other collaboration based processes). In the last section, we introduce performance metric design and organizational design within the supply chain organization focusing mainly on the centralize/decentralize decision.
+The main topic areas we will focus on in this course are:
+
+Supply Chain Network Design
+Supply Chain Finance
+Supplier Management
+Production and Demand Planning
+Process and Organizational Design
+
+This course is indispensable if you’re considering a supply chain management career and, specifically, the positions of Supply Chain Analyst , Operations Manager , or Logistics Coordinator.
+
+
+
+            Read more
+          
+
+
+
+Week 1: Overview of Supply Chain Design: Introduction to Network Flow models.
+Week 2: Basic Supply Chain Network Design: Facility Location and Network Design problems.
+Week 3: Advanced Supply Chain Network Design: Modeling multiple products, multiple echelons, and multiple time periods.
+Week 4: Supply Chain Finance I: Activity Based Costing, Working Capital, and Cash-to-Cash conversation cycle.
+Week 5: Supply Chain Finance II: Discounted cash flow analysis and capital budgeting and investing.
+Week 6: Supplier Management I: Auctions, sourcing, and procurement.
+Week 7: Supplier Management II: Optimization based procurement, and risk sharing.
+Week 8: Production Planning: Introduction to Bills of Material (BOM), Material Resource Planning (MRP) systems, and Distribution Resource Planning (DRP) systems.
+Week 9: Demand Management: Challenges of collaboration with customers and management levers to improve coordination.
+Week 10: Process & Organizational Design: The design of the supply chain organization itself."
+29,https://www.classcentral.com/course/assetpricing-1052,"Are you curious about quantitative academic finance? Have you considered graduate study in finance? Are you working in an investment bank, money-management firm or hedge fund and you want to understand models better? Would you like to know what buzzwords like beta, risk premium, risk-neutral price, arbitrage, equity premium, and discount factor mean? This class is for you. We will see how one basic idea, price equals expected discounted payoff, unites everything - models that describe stocks, bonds, options, real investments, discrete time, continuous time, asset pricing, portfolio theory, and so forth. In this part I, we’ll quickly learn or review time-series in continuous and discrete time. We'll look at some basic facts. Then we’ll start with the underlying consumption-based model, and we’ll preview some classic issues in finance. That outlines the big ideas of the whole class. Then, we'll take a step back and study contingent claims and the theorems showing the existence of a discount factor (the m in p=E(mx)). We'll explore the mean-variance frontier and expected return vs. beta models and factor structures. We will study the classic linear models — CAPM, APT, ICAPM. We will learn how to use GMM to estimate and evaluate asset pricing models, as well as the classic regression tests. This paves the way for Part 2 which focuses on applications and empirical evaluation. The math in real, academic, finance is not actually that hard. Understanding how to use the equations, and see what they really mean about the world... that's hard, and that's what I hope will be uniquely rewarding about this class.
+
+
+
+            Read more
+          
+
+
+
+          Part 1 syllabus: 
+
+Week 1: Stochastic Calculus Introduction and Review. dz, dt and all that. 
+Week 2: Introduction and Overview. Challenging Facts and Basic Consumption-Based Model. 
+Week 3: Classic issues in Finance Equilibrium, Contingent Claims, Risk-Neutral Probabilities.
+
+Week 4: State-Space Representation, Risk Sharing, Aggregation, Existence of a Discount Factor.
+
+Week 5: Mean-Variance Frontier, Beta Representations, Conditioning Information. 
+
+Week 6: Factor Pricing Models -- CAPM, ICAPM and APT. 
+
+Week 7: Econometrics of Asset Pricing and GMM.  
+Final Exam
+
+Part 2 is a separate course, which may be taken separately from Part 1. Here is the syllabus to whet your appetite: 
+
+Spring break (1 week)
+
+Week 1: Factor pricing models in action The Fama and French model Fund and performance evaluation.
+
+Week 2: Time series predictability, volatilty and bubbles. 
+
+Week 3: Equity premium, macroeconomics and asset pricing.
+
+Week 4: Option Pricing.
+
+Week 5: Term structure models and facts.
+
+Week 6: Portfolio Theory.
+
+Final Exam"
+30,https://www.classcentral.com/course/edx-debt-money-markets-concepts-instruments-risks-and-derivatives-11718,"In this course, part of the Professional Certificate program ‘Risk Management in Banking and Financial Markets’, we will examine the structure and functioning of money markets (short-term financial markets) as well as debt markets, the manifestation and impact of interest rate risks in those markets and how are they managed/mitigated.The first part of this course will examine in detail money markets (short-term financial markets) such as call money markets, T-bills markets, repo markets, etc. that make up the ecosystem to effectively manage money supply (liquidity) and ensure stability of the financial system in the short-term.The second part of this course will look at debt markets, the underlying theories such as time value of money, bond pricing and bond valuation, as well as the structure and functioning of debt markets including corporate bond market, government securities (T- bond) market and mortgages market.Interest rate and inflation together are the most significant macro-economic variables that impact global financial markets, particularly debt markets, even more so given the free flow of capital across countries and the consequent emergence of globally interconnected financial systems. As a result, managing interest rate risks and its consequent impact on the riskiness and volatility of instruments traded in the money and debt markets have become exponentially more complex. This course will address the tools and techniques to manage the heightened level of interest rate risks. It will also look at derivative products such as futures, swaps and options and their role in not only helping institutions to hedge against those risks but also to speculate and make additional profits where possible.  This course is part of IIMBx's Professional Certificate program ‘Risk Management in Banking and Financial Markets’. 
+
+
+
+            Read more"
+31,https://www.classcentral.com/course/money-banking-6632,"The last three or four decades have seen a remarkable evolution in the institutions that comprise the modern monetary system. The financial crisis of 2007-2009 is a wakeup call that we need a similar evolution in the analytical apparatus and theories that we use to understand that system. Produced and sponsored by the Institute for New Economic Thinking, this course is an attempt to begin the process of new economic thinking by reviving and updating some forgotten traditions in monetary thought that have become newly relevant.
+
+Three features of the new system are central.
+
+Most important, the intertwining of previously separate capital markets and money markets has produced a system with new dynamics as well as new vulnerabilities. The financial crisis revealed those vulnerabilities for all to see. The result was two years of desperate innovation by central banking authorities as they tried first this, and then that, in an effort to stem the collapse.  
+
+Second, the global character of the crisis has revealed the global character of the system, which is something new in postwar history but not at all new from a longer time perspective.  Central bank cooperation was key to stemming the collapse, and the details of that cooperation hint at the outlines of an emerging new international monetary order. 
+
+Third, absolutely central to the crisis was the operation of key derivative contracts, most importantly credit default swaps and foreign exchange swaps. Modern money cannot be understood separately from modern finance, nor can modern monetary theory be constructed separately from modern financial theory. That's the reason this course places dealers, in both capital markets and money markets, at the very center of the picture, as profit-seeking suppliers of market liquidity to the new system of market-based credit.
+      
+
+
+            Read more
+          
+
+
+
+          Introduction
+    -The first two lectures paint a picture of the monetary system as the essential infrastructure of a decentralized market economy.   The second lecture, ""The Natural Hierarchy of Money"", is a kind of high-level overview of the entire course, so don't expect to fully understand it until you look back after completing the rest of the course.  Nevertheless it provides essential orientation for what comes after.  Lectures notes for these and subsequent lectures may be found in the very first segment of this module.  
+
+Introduction, continued
+    -The next two lectures are meant to introduce a key analytical tool, the balance sheet approach to monetary economics, that we will be using repeatedly throughout the course.  As inspiration, first I provide a concrete example of how the approach works by ""translating"" the Allyn Young reading into the balance sheet language.  I follow that with a more systematic introduction to this essential tool.
+
+Banking as a Clearing System
+    -In the next four lectures, we build intuition by viewing banking as a payments system, in which every participant faces a daily settlement constraint (a survival constraint).  From this point of view, the wholesale money market plays a key role by allowing banks to relax the discipline of a binding settlement constraint, delaying final payment by putting settlement off until a later date.   The relative importance of the various money markets has changed since the 2008 crisis--Fed Funds is now less important--but the conceptual framework remains valid, indeed not only for dollar money markets but also for non-dollar money markets.
+
+Banking as a Clearing System, continued
+    -The next two lectures extend the payments system frame to non-banks by bringing in repo markets, and to the international monetary system by bringing in Eurodollar markets.   Here, as in the previous two lectures, the emphasis is on settlement, and so implicitly on so-called ""funding liquidity"".  The last three segments of the Eurodollar lecture, on the failure of two seemingly obvious arbitrage conditions, are meant to motivate the shift to market-making and ""market liquidity"" in the next module.   
+
+Banking as Market Making
+    -""Market liquidity"" is supplied by dealers who stand ready to absorb temporary imbalances in supply and demand by taking the imbalance onto their own balance sheets, for a price.  From this point of view, banks can be considered a special kind of dealer, since they absorb imbalances in payment flows.   The first lecture is meant to build intuition by using our familiar balance sheet method to make sense of how this all worked in a system much simpler than our own.  The second lecture introduces a formal model of the economics of the dealer function, which we will be using throughout the rest of the course. 
+
+Banking as Market Making, continued
+    -Here we adapt the Treynor model to banks, which we conceptualize as dealers in money, specifically term funding.  Like Treynor's security dealers, banks supply market liquidity for a price.  But sometimes, in a financial crisis, demand for market liquidity overwhelms supply, and that's where the central bank comes in, as dealer of last resort in money markets.  And if the crisis is big enough, as 2007-2009, the central bank comes in as dealer of last resort in capital markets as well.
+
+Midterm review and exam
+    -The first twelve lectures have introduced all of the main concepts of the course.  The midterm exam gives you a chance to test whether you have mastered these concepts before extending them into new areas in the second part of the course.  But before you try the exam, first use the review lecture, and the questions from students, to review the main concepts.
+
+International Money and Banking
+    -The next four lectures extend the ""money view"" perspective to the larger world of multiple national monies by thinking about the international monetary system as a payment system, and by thinking of banks as market makers in foreign exchange.  The first lecture is introductory and conceptual, while the second builds intuition by ""translating"" Mundell's account of the development of the international monetary system into money view language (similar to what we did at the beginning of the course for Allyn Young's account of the development of the US monetary system).
+
+International Money and Banking, continued
+    -The next two lectures use the Treynor model to understand how exchange rates are determined in dealer markets.  In the second, we confront directly the puzzle we observed earlier in the course, namely why uncovered interest parity (UIP) fails to hold in real world markets.
+
+Banking as Advance Clearing
+    -The next four lectures extend the money view to the larger financial world of capital markets, where the price of risk is determined in dealer markets for swaps of various kinds.  The first lecture is a kind of conceptual introduction, while the second translates the standard finance account of forwards and futures into money view terms, as key building block for what comes after.
+
+Banking as Advance Clearing, continued
+    -In the modern economy, the price of risk is determined in swap markets that distinguish specific forms of risk, most importantly interest rate swaps and credit default swaps.  The Treynor model can be adapted to understand how the price of risk is formed in dealer markets.
+
+  Money in the Real World
+    -In this final module, we bring the entire course together.  These two lectures build on everything that came before, and show how all the pieces fit together into a unified whole.  Specifically, the first lecture uses the conceptual apparatus of the money view to make sense of shadow banking as the quintessential form of banking for the modern financially globalized world.  And the second lecture shows how the conceptual apparatus of the money view fits with standard economics view and finance view, by drawing attention to dimensions of the world from which the standard views abstract.
+
+Final Exam
+    -The previous module operated in effect as a review of the entire course, so if you were able to make sense of those lectures, you are ready for the final.  But maybe you first want to have a look back at the second lecture, ""The Natural Hierarchy of Money"", for a high-level summary of the essential concepts of the money view.  For almost everybody, the money view is a new and unfamiliar way of thinking about the world, and it takes a while to get used to it.  The purpose of this course is to plant the seed, by demonstrating the value of this way of thinking for making sense of real world problems.  Once you are done with the final exam, the real work begins, of using the money view to make sense of whatever real world problems confront you in your own daily life."
+32,https://www.classcentral.com/course/monetary-policy-asia-pacific-11646,"Watch the introduction video to the course here:  https://youtu.be/U7dQzqtIFVg
+
+The Asia-Pacific region contains some of world’s most dynamic economies. Economies around the globe rely on credible monetary policy implemented by central banking institutions. Monetary policy governs the liquidity available to the payment systems that underlie trade and finance. Smooth adjustment of liquidity can minimize instability in money and foreign exchange markets and keep inflation and growth on a secure footing. The industrial giants of China, Japan, and Korea; the Southeast Asian emerging markets of Indonesia, Malaysia, Philippines, and Thailand; and the international entrepots at Hong Kong and Singapore each face unique challenges in implementing liquidity policy.
+
+This advanced course will build a foundation for understanding liquidity policy implementation in the Asia-Pacific using standard economic models. The course will discuss the effects of high level discussion of a key element of national level public policy, monetary policy.  Modern monetary policy connects macroeconomic conditions and key financial market indicators. It will also analyze the way that central bank goals for macroeconomic stability will determine outcomes in interest rates and exchange rates. The rigorous theoretical foundation should also build analytical skills that might be applied to policy and market analysis in a broad range of economies and even in the Asia-Pacific region as policy-making evolves in the future.
+
+The topics covered each week:
+
+Module 1 - Monetary Policy Implementation
+Module 2 - Monetary Policy Strategy
+Module 3 - Exchange Rates and Monetary Policy
+
+After taking this course and going through the interactive activities, you will be able to:
+
+(1)  Describe Monetary Policy instruments central banks use
+(2)  Interpret on-going actions of central banks
+(3)  Apply graphical analysis and calculate basic economic measures used as tools by central banks or analysts
+(4)  Analyze the way that central bank goals for macroeconomic stability will determine outcomes in interest rates and exchange rates
+      
+
+
+            Read more
+          
+
+
+
+          Monetary Policy Implementation
+    -Welcome to the first module!  This module will focus on the microeconomics of monetary policy implementation. We study how the central bank balances supply against demand in liquidity markets to target the key interest rate on interbank lending and influence money markets. 
+
+Monetary Policy Strategy
+    -Welcome to Module 2!  This module will focus on the macroeconomics of monetary policy strategy. We study the how (and why!) the central bank sets monetary policy in response to business cycle conditions in order to achieve a smooth and predictable inflation target. 
+
+Monetary Policy and Exchange Rates
+    -This module will focus on the various interactions between monetary policy and exchange rates. We study how monetary policy affects the balance of supply and demand in foreign exchange markets and policies required to stabilize the relative value of domestic currency
+
+Bringing it all together
+    -Welcome to the final exam module!  This module discusses regional approaches to exchange rate stabilization in Singapore and China. This supplementary material should help you tie together the application of concepts from the previous modules. However, only materials from Modules 1-3 will be directly covered in the final exam."
+33,https://www.classcentral.com/course/mathematicalmethods-1013,"The Mathematical Methods for Quantitative Finance course reviews the mathematical methods fundamental for the study of quantitative and computational finance. The areas of focus include calculus and multivariable calculus, constrained and unconstrained
+optimization, and linear algebra.
+
+Topics covered include the following:
+
+
+Functions and inverse functions
+Limits, derivatives, partial derivatives, and chain rule
+    
+Integrals and multiple integrals, changing the order of differentiation and integration
+Taylor series approximations
+Newton’s method
+Lagrange multiplier method
+Vector and matrix arithmetic, determinants, eigenvalue-eigenvector decomposition, singular value decomposition
+Numerical methods for optimization
+        
+
+Course goal:
+Upon completion of the course students will know the fundamental mathematical
+concepts needed to effectively study quantitative finance areas such as
+fixed income, options and derivatives, portfolio optimization,
+and quantitative risk management.Course Objectives:
+
+
+    Upon completion of the course students will:
+
+Understand the concept of a limit, differentiation, and integration;
+Be able to compute partial derivatives and multiple integrals;
+Understand the utility of matrix decompositions;
+Be able to use Lagrange multipliers to solve constrained optimization problems; and
+        
+
+Apply the above methods to problems arising in finance.
+        
+
+
+
+
+
+            Read more"
+34,https://www.classcentral.com/course/global-financial-crisis-4893,"Former U.S. Secretary of the Treasury Timothy F. Geithner and Professor Andrew Metrick survey the causes, events, policy responses, and aftermath of the recent global financial crisis.
+      
+
+
+          Introduction to The Global Financial Crisis
+
+The Common Causes of Financial Crises
+
+Housing and Mortgages
+
+Safe Assets and the Global Savings Glut
+
+The Housing Crisis
+
+Anxiety, Part I
+
+Anxiety, Part II
+
+Panic
+
+Our Responses to the Crisis
+
+ Responding to Future Crises
+
+Europe in the Global Financial Crisis
+
+The Eurozone Crisis
+
+Course Summary
+    -Course Summary"
+35,https://www.classcentral.com/course/fintech-risk-management-12007,"This course “FinTech Risk Management” help you understand risk management and corporate governance in finance industry with the disruption by FinTech and RegTech. You will become more confident to analyse and make recommendations to develop business strategies balancing the risks in operation, reputation and the stability of finance firms.
+
+You will learn about new challenges of compliance with financial requirements and government regulations and how you can deal with these changes, strategies in analysing FinTech risk and how operation risks increase in finance industry in this changing environment. As tech firms are now becoming more like finance firms such as Alibaba, Apple, and Tencent etc., you will learn about the importance of IT compliance and assurance and practical skills in dealing with these changes.
+      
+
+
+          Compliance with financial requirements & government regulations 
+    -In this module, we will focus on the financial perspective of FinTech compliance and assurance. Failure to comply with regulations can result in large fines as well as business failures. However, financial compliance is only one part of risk management for FinTech firms.   
+
+FinTech Compliance with corporate governance: Objectives, guidelines,& policy
+    -In this module, we examine different types of risks and explain why operational risks and business risks are becoming more important to FinTech firms. The second, third and fourth derivatives for different types of risks are explained and compared.  Techniques and tools for risk analysis and internal controls are also described.
+
+IT Compliance & Assurance Part 1
+    -In this module, learners will gain a overall IT perspective of business application development and compliance in this area. We will examine 3 different system changeover methods when implementing new system & replacing the old system and the comparison. Also we will look into the risks associate with new system development and compliance of change management process. 
+
+IT Compliance & Assurance Part 2
+    -In this module, learners will gain an overall picture of business continuity plan and disaster recovery plan. It's essential to plan ahead before something bad happen to the systems (e.g. Data breach or cyber hacking) We will discuss the process of creating a business continuity plan for an organisation and the strategies in data back up and restoration policy.
+
+Peer-graded Final Project
+    -In this module, learners will complete a final project for the course involving research on how FinTech creates new sources of risks & challenges to large existing financial institutions and develop business strategies balancing the risks in operation, reputation and the stability of those firms."
+36,https://www.classcentral.com/course/edx-banking-financial-intermediation-concepts-risks-capital-regulation-11717,"This course, part of the Professional Certificate Program ‘Risk Management in Banking and Financial Markets’, will help you understand the theories and the macroeconomic context governing banking and financial intermediation as well as measures to manage credit risk, off-balance sheet risk, operational risk, liquidity risk and solvency risk, including Basel guidelines on capital adequacy.Banks and other financial intermediaries make up a large part of the ‘ecosystem’ that channelizes money from those who have it (i.e. savers/investors) to those who need it (i.e. borrowers). Central Banks in most countries also use that ecosystem to effectively manage money supply (liquidity) and to safeguard the stability of the financial system. This course will look at the products and services offered by banks and financial intermediaries and the significant complexities and risks they encounter in conducting their business in a globally interconnected world. It will address in detail the embedded risks in banking and financial intermediation such as credit risk, off-balance sheet risk, operational risk, liquidity risk, solvency risk, etc., and how these risks are identified, measured and managed, using several risk mitigation techniques and regulatory mechanisms.This course is part of IIMBx's Professional Certificate program ‘Risk Management in Banking and Financial Markets’."
+37,https://www.classcentral.com/course/edx-statistics-for-business-i-3640,"Statistics is a versatile discipline that has revolutionized the fields of business, engineering, medicine and pure sciences. This course is Part 1 of a 4-part series on Business Statistics, and is ideal for learners who wish to enroll in business programs. The first two courses cover topics in Descriptive Statistics, whereas the next two courses focus on Inferential Statistics.
+Spreadsheets containing real data from diverse areas such as economics, finance and HR drive much of our discussions. 
+In Part 1, we shall be exploring multiple ways to describe these datasets, numerically as well as visually. Throughout, we shall embrace a problem-based approach to understanding the material: the primary reason to pick up a tool or a technique will be to solve a problem. Our course makes judicious use of tools.
+In Part 2, we shall take up a few datasets that have over a million rows, which makes it impossible to analyze using a spreadsheet. This is a natural setting for R, an advanced statistical programming platform. The courses incorporate helpful tutorials to get learners acquainted with both the mechanisms. Parts 3 and 4 are dedicated to Inferential Statistics. In Part 3, we begin by exploring the benefits of random sampling, and apply the Central Limit Theorem to arrive at confidence intervals for important population parameters. We also learn how to formulate hypotheses for business data, and resolve them with the testing framework that we establish. Along the way, we shall compare two or more populations and draw inferences with a set of statistical tests.
+You will learn all these concepts with the help of various demonstrations, which show real-life application of the concepts related to business situations.
+
+
+
+            Read more"
+38,https://www.classcentral.com/course/venturefinance-2709,"This course is for aspiring or active entrepreneurs who wants to understand how to secure funding for their company. This course will demystify key financing concepts to give entrepreneurs and aspiring entrepreneurs a guide to secure funding. 
+
+Examine the many financing options available to get your new venture funded. Learn the basics of finance, valuations, dilution and non-dilutive funding sources. Understand capital structure for new ventures, term sheets and how to negotiate them, and the differences between early-stage versus later-stage financing. Develop an understanding of how to develop winning investor pitches, who and when to pitch, how to avoid common mistakes that limit the effectiveness of the pitch, and how to ‘get to the close’. Key questions answered within the course include:
+
+* When to raise outside capital?
+* What kind of investors invest by stage and where to find them?
+* What are your fundraising options?
+* What are the key components of the term sheet?
+* How to perform company valuations?
+* How to pitch to investors?
+* What techniques help the entrepreneur ‘get to the close’?
+
+With this course, students experience a sampling of the ideas and techniques explored in the University of Maryland's master's degree in technology entrepreneurship, an innovative 100% online program. Learn more at http://mte.umd.edu/landing.
+      
+
+
+          The Early Stage Investment Landscape
+    -This session provides insights into the investment landscape, to include how investors and lenders evaluate new ventures. Key terminology and principles are addressed to provide learners without an accounting or finance background with an understanding of these areas. 
+
+Sources of Capital for the Early Stage Company
+    -This session examines the options that entrepreneurs face in where to raise their financial capital from in the early stages of their venture. From friends and family, to angel investors and venture capitalists, the pros and cons of each source of capital are explored.
+
+Getting Funded – Steps in the Funding Process
+    -This session discusses the techniques and tools to secure funding for a new venture. This provides insights into how entrepreneurs can create a comprehensive funding strategy for their new venture.
+
+Pitching Investors and Closing the Round
+    -This final session instructs learners on how to share their investment opportunity with investors and partners. With practical tips on the do's and don'ts of pitching, learners are able to develop a compelling story for their new venture."
+39,https://www.classcentral.com/course/financialmarkets-912,"An overview of the ideas, methods, and institutions that permit human society to manage risks and foster enterprise.  Emphasis on financially-savvy leadership skills. Description of practices today and analysis of prospects for the future. Introduction to risk management and behavioral finance principles to understand the real-world functioning of securities, insurance, and banking industries.  The ultimate goal of this course is using such industries effectively and towards a better society.
+      
+
+
+          Module 1
+    -Welcome to the course! In this opening module, you will learn the basics of financial markets, insurance, and CAPM (Capital Asset Pricing Model). This module serves as the foundation of this course. 
+
+Module 2
+    -In this next module, dive into some details of behavioral finance, forecasting, pricing, debt, and inflation. 
+
+Module 3
+    -Stocks, bonds, dividends, shares, market caps; what are these? Who needs them? Why? Module 3 explores these concepts, along with corporation basics and some basic financial markets history. 
+
+Module 4
+    -Take a look into the recent past, exploring recessions, bubbles, the mortgage crisis, and regulation. 
+
+Module 5
+    -Options and bond markets are explored in module 5, important components of financial markets. 
+
+Module 6
+    -In module 6, Professor Shiller introduces investment banking, underwriting processes, brokers, dealers, exchanges, and new innovations in financial markets. 
+
+MODULE 7
+    -Professor Shiller's final module includes lectures about nonprofits and corporations, and your career in finance."
+40,https://www.classcentral.com/course/finanzen-7794,"Durch den MOOC „Das liebe Geld - Finance im Alltag“ erlangen Sie ein Basiswissen für bewusste und korrekte finanzielle Entscheidungen im Alltag. Sie eignen sich konkrete Werkzeuge an, die Ihnen helfen können, bessere Alltagsentscheidungen zu treffen und bekommen einen Einblick in verschiedene neueste Forschungserkenntnisse der Finance.
+
+Wir begleiten Sie in sechs Wochenmodulen zu soliden finanziellen Alltagsentscheidungen. Nach einer Einführung erlernen Sie den Zeitwert des Geldes als zentrales Konzept zur Entscheidungsfindung. Überlegungen zur persönlichen Finanzplanung folgt das Basiswissen zur Geldanlage. Danach halten Sie inne und reflektieren die Frage der Werte anhand konkreter Beispiele, insbesondere in Bezug auf Finanzprodukte wie Derivate und Strukturierte Produkte. In einem Exkurs erhalten Sie auch Einblick in Bitcoin und Blockchain. Das Thema Geldanlage wird anschliessend vertieft: Sie begegnen dem grössten Feind des Anlegers und betrachten die Interaktion der Finanzmarktteilnehmenden in biologischen Analogien. Am Ende reflektieren Sie das Gehörte und Erlernte kritisch und nehmen hoffentlich viele konkrete Hilfsmittel in den Alltag mit.
+
+Die Inhalte der einzelnen Module können auch einzeln bearbeitet werden. Der Kurs eignet sich also auch für jene Interessierte, die nicht Zeit oder Interesse am Gesamtkurs haben.
+
+Der Kurs wird in deutscher Sprache gehalten.
+      
+
+
+          Finance im Alltag?! Warum dieser Kurs für Sie interessant sein kann
+    -Im ersten Modul unseres Kurses ""Das liebe Geld - Finance im Alltag"" laufen wir uns in vier kurzen Videos gemeinsam warm. Sie erhalten einen Überblick über den Inhalt, das Team und das Vorgehen des Kurses. Viel Spass mit Elisabeth Liechti und Alexander Wagner!
+
+Ist Zeit Geld? Was du heute kannst besorgen...
+    -Schon tauchen wir in die Entscheidungswelt des Alltags ein. Sie erlernen den Zeitwert des Geldes als mächtiges Entscheidungswerkzeug in Wort und Tat. Legen Sie sich eine Möglichkeit zurecht, mit der Sie schnell einfache Berechnungen durchführen können (Taschenrechner oder Computer). Viel Spass und eine lehrreiche Zeit mit Alexander Wagner!
+
+Geld ausgeben oder sparen? Das Basiswissen zur Geldanlage
+    -In diesem Modul machen Sie sich Gedanken über Ihre persönliche Finanzplanung und erlernen das Basiswissen zur Geldanlage. Legen Sie sich wieder eine Möglichkeit zurecht, mit der Sie schnell einfache Berechnungen durchführen können (Taschenrechner oder Computer). Eine interessante Woche mit Benjamin Wilding!
+
+Von Preisen zu Werten - Ein System ist nur so gut wie seine Akteure
+    -In diesem Modul halten Sie etwas inne und reflektieren die Frage der Werte anhand konkreter Beispiele, wie Derivate und Strukturierter Produkte. Es erwartet Sie eine abwechslungsreiche Woche mit Marc Chesney und Benjamin Wilding!
+
+Der grösste Feind des Anlegers und die Biologie der Finanzmärkte
+    -Das Ende unseres Kurses ""Das liebe Geld - Finance im Alltag"" ist schon in Sicht. Auf der Zielgerade vertiefen wir das Wissen zur Geldanlage mit Erkenntnissen der Psychologie und Analogien aus der Biologie, damit Sie Fehler vermeiden lernen und bewusst die Anlagestrategie finden, die zu Ihnen passt. Eine spannende Woche mit Kremena Bachmann und Thorsten Hens!
+
+Zusammenfassung und Selbstkontrolle
+    -Schon sind Sie im Abschlussmodul des Kurses ""Das liebe Geld - Finance im Alltag"" angekommen! In einer persönlichen Abschlussreflektion wollen wir Ihnen die Möglichkeit geben, Ihre persönliche Situation anhand des Gehörten und Gelernten zu reflektieren. Und zum Schluss laden wir Sie zur Abschlussprüfung des Kurses ein. Wir wünschen Ihnen ein gutes Finale!"
+41,https://www.classcentral.com/course/meeting-investors-goals-5515,"In this course, you will dive into the concepts of rationality and irrationality and understand how they impact our investment decisions and what the consequences can be at the market level.
+
+You will first explore the different biases that we, as humans, are subjected to when facing investment decisions and how they may impact the outcomes of these decisions. Moreover, you will see how emotions and ethical concerns such as honesty and trust influence market participants. When they are considered as a group rather than individually, you will discover how rationality and irrationality can drive asset prices to and away from their fair value. Finally, you will be presented with different portfolio construction methodologies and investment styles that make up the landscape of today's portfolio management industry. 
+
+At key points throughout the course, you will benefit from the practical knowledge of experts from our corporate partner, UBS, in how to build and manage clients' portfolios.
+      
+
+
+          General Introduction and Key Concepts
+    -In this introductory week, we will start by illustrating how emotions can hinder sensible investment decisions. You will then have the opportunity to check if you master the concepts of the first course that are important for this second course. Finally, we will lay the ground for next week’s content by looking at rational decision making.
+
+How Individuals Make Financial Decisions
+    -The focus of this second week is on you, the investor: what are the reasons you participate in financial markets? How do you make investment decisions? What can go wrong in your decision process and what are the consequences? What can you do about it? To answer these questions, we will talk about cognitive biases, emotions and moral values and their respective link with investment decisions.
+
+Market Efficiency, Bubbles & Crises
+    -In this third week, we will have a look at investors’ behavior as a group. How does it impact asset prices? How do these prices reflect available information? What does it imply for the profitability of some trading strategies? What can go wrong in this price formation process and how can (and did) it cause financial bubbles and crises? This week also features as special guest: Prof. Jean-Pierre Danthine, former vice-chairman of the Swiss National Bank, who will offer insights into some of these issues.
+
+Portfolio Construction and Investment Styles
+    -In this final week, we will look at two main portfolio construction methodologies: top-down and bottom-up. We will see how they differ but also how they can be combined. In the second lesson, we will review some important investment styles that are commonly used in the portfolio management industry. In this final lesson, you will also be given the opportunity to experiment with different trading strategies and compare your results with fellow learners."
+42,https://www.classcentral.com/course/edx-statistics-for-business-ii-3638,"Statistics is a versatile discipline that has revolutionized the fields of business, engineering, medicine and pure sciences. This course is Part 2 of a 4-part series on Business Statistics, and is ideal for learners who wish to enroll in business programs. The first two parts cover topics in Descriptive Statistics, whereas the next two focus on Inferential Statistics.
+Spreadsheets containing real data from diverse areas such as economics, finance and HR drive much of our discussions. 
+In Part 2, we use the language of probability to examine the underlying distributions of random variables. We model real-life phenomena using known variables such as Binomial, Poisson and Normal. We learn how to simulate data that are distributed according to these variables.
+We shall take up datasets that have over a million rows, which makes it difficult to analyze using a spreadsheet. This is a natural setting for R, an advanced statistical programming platform. We incorporate helpful tutorials to get learners acquainted with the platform."
+43,https://www.classcentral.com/course/futurelearn-managing-my-money-for-young-adults-11642,"Take control of your financial future by learning how to manage your money
+Despite the introduction of mandatory personal finance education in UK secondary schools, those aged 18-24 are one of the age groups most likely to be in debt – representing over a fifth of the UK’s debt-burdened population.
+In this course you’ll learn to budget effectively, taking into account changes like getting older and leaving the family home. You’ll understand how to choose and manage savings accounts, and you’ll discover how to borrow sensibly and manage debts effectively. Ultimately, you’ll gain the ability to plan ahead and make your goals financially achievable.
+16-18 year olds preparing for life after school or college. It is also relevant to those in their early 20s, preparing to leave higher education  - or who have just recently left. This course is aimed at learners in the UK, however many of the subjects covered are relevant to learners in other countries.
+This course has been generously funded by The Chartered Accountants’ Livery Company Charity."
+44,https://www.classcentral.com/course/maximising-spa-profitability-12831,"Learn how to achieve the best results in spa and wellness centers
+Discover ways to ensure your spa or wellness center is financially successful with this course taught by experts in the spa and wellness industry.
+On the course you will explore impotant financial concepts and strategies, and learn how to apply them to your own spa or wellness center. You will get to grips with  financial statements, revenue management principles, KPIs, and more. You should leave the course confident in your ability to improve the financial performance of spa and wellness centres.
+This course is for spa and hospitality professionals responsible for, or involved in, the finances or operations of spa real estate or spa investments. It is also suitable for those working in spa financing and asset management.
+Some proficiency with Excel will be helpful
+Some principles of finance are preferred but not required"
+45,https://www.classcentral.com/course/edx-supply-chain-management-a-decision-making-framework-7850,"In this business and management course, you’ll learn how make effective supply chain decisions that take into consideration all aspects of your business.
+The course will take a helicopter view for decision-making. The helicopter view is built upon:
+
+Key questions to decide on: manufacturing organization, late differentiation, location, distribution networks, …
+Objectives relevant to your business: cost, speed, flexibility, reliability, …
+
+We will work through questions such as:
+
+Should you locate a process in a given country? This decision has an obvious impact on your HR costs, but it also affects your working capital and your ability to react to the market needs.
+Should you centralize your distribution? This decision leads to economies of scale and a better product availability, but it also impacts your carbon emission.
+
+By the end of this course, you will have built a framework that allows you to make better decisions.
+
+
+
+1. Get the big picture First touch with the supply chain Rough sketch of what “Supply chain objectives” means Rough overview of strategic “Supply chain decision”
+2. Objectives - The business Strategy and the Business target Market segment - attributes Financial objectives Company values and strategic aims Decision in a multi-criteria environment 3. Process Structure Process organization. Artisan – Line – Functional Simulation and examples Strength and Weaknesses Supply chain view and managerial focus MTS/MTO and late differentiation 4. Distribution Centralized/decentralized Distribution flows Warehousing and X-docking Supply chain view and managerial focus 5. Inventory Inventory types Inventory cost Inventory management and supply chain view"
+46,https://www.classcentral.com/course/applications-calculus-5070,"Calculus is one of the grandest achievements of human thought, explaining everything from planetary orbits to the optimal size of a city to the periodicity of a heartbeat. This brisk course covers the core ideas of single-variable Calculus with emphases on conceptual understanding and applications. The course is ideal for students beginning in the engineering, physical, and social sciences. Distinguishing features of the course include: 1) the introduction and use of Taylor series and approximations from the beginning; 2) a novel synthesis of discrete and continuous forms of Calculus; 3) an emphasis on the conceptual over the computational; and 4) a clear, dynamic, unified approach.
+
+In this fourth part--part four of five--we cover computing areas and volumes, other geometric applications, physical applications, and averages and mass.  We also introduce probability.
+      
+
+
+          Computing Areas and Volumes
+    -Having seen some calculus before, you may recall some of the motivations for integrals arising from area computations. We will review those classical applications, while introducing the core idea of this module -- a differential element. By computing area and volume elements, we will see how to tackle tough geometry problems in a principled manner. 
+
+Other Geometric Applications
+    -There's more to geometry than just area and volume! In this module, we will take things ""to the next level"", ascending to higher dimensions. Coming back to the 3-d world, we will return to problems of length and area, but this time in the context of curves and surfaces. As always, the emphasis will be on how to construct the appropriate differential element for integrating. 
+
+Physical Applications
+    -There is so much more to applications of integrals than geometry! So many subjects, from physics to finance, have, at heart, the need for setting up and computing definite integrals. In this short but intense module, we will cover applications including work, force, torque, mass, and present & future value. 
+
+Averages and Mass
+    -There is a statistical aspect to integrals that has not yet been brought up in this course: integrals are ideal for computing averages. Motivated by physical problems of mass, centroid, and moments of inertia, we will cover applications of integrals to averages.  
+
+An Introduction to Probability
+    -This capstone module gives a very brief introduction to probability, using what we know about integrals and differential elements. Beginning with common-sense uniform probabilities, we move on to define probability density functions and the corresponding probability element. Building on the physical intuition obtained from centers of mass and moments of inertia, we offer a unique perspective on expectation, variance, and standard deviation."
+47,https://www.classcentral.com/course/whartonfinance-625,"This course provides a brief introduction to the fundamentals of finance, emphasizing their application to a wide variety of real-world situations spanning personal finance, corporate decision-making, and financial intermediation. Key concepts and applications include: time value of money, risk-return tradeoff, cost of capital, interest rates, retirement savings, mortgage financing, auto leasing, capital budgeting, asset valuation, discounted cash flow (DCF) analysis, net present value, internal rate of return, hurdle rate, payback period.
+      
+
+
+          Week 1: Time Value of Money
+    -Welcome to Introduction to Corporate Finance! This first module will introduce you to one of the most important foundational concepts in Finance, the time value of money. Before diving into the Video lectures, I encourage you to take a look at the brief pre-reading for the course. Specifically, have a look at “Big Picture Course Motivation,” for additional motivation and context for the course, “Time Value of Money Overview,” for a motivation and context for our first topic, and “Quiz Problem Answer Input.” This last note is particularly important to avoid confusion with the problem sets. Then, go to the Video Lectures and start learning Finance!  
+
+Week 2: Interest Rates
+    -In this module, we wrap up the Time Value of Money topic with a discussion of inflation before moving on to our second topic, Interest Rates, and introducing our third topic, Discounted Cash Flow Analysis. By the end of this module, you should feel comfortable with discounting and compounding arbitrary cash flow streams in order to value different claims and make better financial decisions. 
+
+Week 3: Discounted Cash Flow Analysis
+    -This module continues our discussion of discounted cash flow analysis by way of a capital budgeting case. (You might want to download or view the Excel file, “Tablet Case Spreadsheet.xlsx,” that I use in the lectures, but it is not necessary for understanding the material.) By the end of this module, you should feel comfortable valuing claims and making financing decisions in which the timing of the cash flows and compounding of interest is arbitrary (e.g., annual, semi-quarterly, monthly, etc.). Having worked through the problems, you should also be more comfortable with real world financial decision making related to retirement savings, home financing and refinancing, auto leases, and other scenarios. 
+
+Week 4: Return on Investment
+    -This module closes out our discussion of discounted cash flow analysis and caps off the course with a discussion of return on investment. By the end of this module, you should feel comfortable with the notion of free cash flow and the ability to apply a set of forecast drivers to project free cash flows into the future. These are some of the elements of a basic financial model, which we will use to come to a decision about the tablet project and to analyze the assumptions behind our valuation."
+48,https://www.classcentral.com/course/corpfinance-2286,"Corporate Finance Essentials will enable you to understand key financial issues related to companies, investors, and the interaction between them in the capital markets. By the end of this course you should be able to understand most of what you read in the financial press and use the essential financial vocabulary of companies and finance professionals.
+      
+
+
+          Course Overview
+
+Risk and Return
+    -Welcome to Session 1 In this session we will discuss some basic but essential financial concepts such as mean return, volatility, and beta. We will also learn how to apply them in order to assess the performance of selected equity markets over the last decade. The learning objective is to understand the basic, essential, and widely used financial concepts.
+
+
+Correlation and Diversification
+    -To understand diversification, an issue at the very heart of most investment decisions, and the role that correlation plays in determining the gains from diversification.
+
+The CAPM and the Cost of Capital
+    -In this session we will discuss how companies assess their cost of debt, their cost of equity, and ultimately their cost of capital. We will also discuss why this last concept is at the heart of many of the most important corporate decisions.
+
+Estimating the Cost of Capital - An Application
+    -In this session we will put to work all the concepts discussed in the previous session by estimating the cost of capital of a company. As usual, when putting theory into practice, a few complications arise and we will discuss how to deal with them.
+
+Project Evaluation
+    -In this session we will discuss how companies routinely decide whether or not to invest in projects. We will discuss the two tools most widely used for this purpose, NPV and IRR, and apply them to the evaluation of an investment opportunity.
+
+Corporate Value Creation
+    -In this session we will discuss EVA, a tool widely used to assess whether a company is creating or destroying value. We will also put this tool into practice by estimating the EVA of two companies."
+49,https://www.classcentral.com/course/financialengineering1-1014,"Financial Engineering is a multidisciplinary field drawing from finance and economics, mathematics, statistics, engineering and computational methods. The emphasis of FE & RM Part I will be on the use of simple stochastic models to price derivative securities in various asset classes including equities, fixed income, credit and mortgage-backed securities. We will also consider the role that some of these asset classes played during the financial crisis. A notable feature of this course will be an interview module with Emanuel Derman, the renowned ``quant'' and best-selling author of ""My Life as a Quant"". 
+
+We hope that students who complete the course will begin to understand the ""rocket science"" behind financial engineering but perhaps more importantly, we hope they will also understand the limitations of this theory in practice and why financial models should always be treated with a healthy degree of skepticism. The follow-on course FE & RM Part II will continue to develop derivatives pricing models but it will also focus on asset allocation and portfolio optimization as well as other applications of financial engineering such as real options, commodity and energy derivatives and algorithmic trading.
+      
+
+
+          Course Overview
+    -An introduction to the course.
+
+Introduction to Basic Fixed Income Securities
+    -Review of interest and basic fixed income securities; introduction to arbitrage pricing. 
+
+Introduction to Derivative Securities
+    -The mechanics of forwards, futures, swaps and options. Option pricing in the 1-period binomial model.
+
+Option Pricing in the Multi-Period Binomial Model
+    -Derivatives pricing in the binomial model including European and American options; handling dividends; pricing forwards and futures; convergence of the binomial model to Black-Scholes.
+
+Term Structure Models I
+    -Binomial lattice models of the short-rate; pricing fixed income derivative securities including caps, floors swaps and swaptions; the forward equations and elementary securities.
+
+Term Structure Models II and Introduction to Credit Derivatives
+    -Calibration of term-structure models; the Black-Derman-Toy and Ho-Lee models. Limitations of term-structure models and derivatives pricing models in general. Introduction to credit-default swaps (CDS) and the pricing of CDS and defaultable bonds.
+
+Introduction to Mortgage Mathematics and Mortgage-Backed Securities
+    -Basic mortgage mathematics; mechanics of mortgage-backed securities (MBS) including pass-throughs, principal-only and interest-only securities, and CMOs; pricing of MBS; MBS and the financial crisis.
+
+Background Material"
